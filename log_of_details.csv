@@ -1,0 +1,1000 @@
+,task,status,tracker_ID,date,server,city,country
+0,Designing and implementing data models,success,89328463488,1970-01-01,1366:c314:8d40:4219:4a51:138f:7ce3:d244,Ontario,Canada
+1,Extracting data from various sources,success,89328463489,1970-01-01,1ffa:cdd1:7a2b:a7d8:ab00:eada:94b3:7a7c,California,USA
+2,Loading data into a data warehouse,success,89328463490,1970-01-01,8ac5:9010:f24c:2f06:4679:aaec:a737:f003,Florida,USA
+3,Data quality assurance,success,89328463491,1970-01-01,5a7d:18ec:4650:5421:185c:4fa0:2e86:6643,Queensland,Australia
+4,Building data pipelines,success,89328463492,1970-01-01,1480:2795:2b3a:428e:1023:fa04:586c:90b1,Paris,France
+5,Optimizing database performance,-,89328463493,1970-01-01,7f2b:df86:5279:687d:2f43:9cbe:d291:8125,Tokyo,Japan
+6,Data quality assurance,success,89328463494,1970-01-01,805a:a9ff:45ca:7672:6737:68cc:6f2d:4bd2,Paris,France
+7,Optimizing database performance,success,89328463495,1970-01-01,25d3:9eb2:8066:4cb:3f84:13d5:ab0f:9e3,Queensland,Australia
+8,Data governance,success,89328463496,1970-01-01,f57b:4c0e:26c9:f04d:74a9:16b7:2b02:a063,Queensland,Australia
+9,Building data pipelines,success,89328463497,1970-01-01,46fd:b891:e726:4f51:ff1f:8489:a823:84dc,California,USA
+10,Transforming data into a unified format,success,89328463498,1970-01-01,8755:3c70:4da:ad2a:a23d:8e9b:1a3b:e9bf,Florida,USA
+11,Loading data into a data warehouse,success,89328463499,1970-01-01,4a73:ce86:e05b:48a6:2235:f676:d4ea:25d,Texas,USA
+12,Loading data into a data warehouse,success,89328463500,1970-01-01,ee97:d7d6:4068:3f6e:f8e9:7cf1:8850:5f3e,Paris,France
+13,Building data pipelines,success,89328463501,1970-01-01,f75c:724a:378:3787:b8a2:e9b7:55f4:4b0b,New York,USA
+14,Designing and implementing data models,success,89328463502,1970-01-01,3b16:b2c0:32e0:c7fa:e4e4:4035:4954:1925,Florida,USA
+15,Designing and implementing data models,-,89328463503,1970-01-01,56c0:efbf:2ecc:67b6:61c:2fa6:7b12:2e12,Texas,USA
+16,Data quality assurance,-,89328463504,1970-01-01,99db:f6af:4b20:e70d:3f70:a3a7:1750:dd48,Texas,USA
+17,Extracting data from various sources,success,89328463505,1970-01-01,4d9b:5fd7:767c:c61b:5b8e:a027:4de6:fa64,Texas,USA
+18,Optimizing database performance,success,89328463506,1970-01-01,7a36:eec8:e57e:a6:90a0:827f:3e16:1544,Florida,USA
+19,Data governance,success,89328463507,1970-01-01,5f7:b36d:6e44:aa20:2d85:e34a:c3bc:933d,Texas,USA
+20,Data quality assurance,success,89328463508,1970-01-01,ab47:d1a9:b22c:f478:971:e067:9fd4:c67,Tokyo,Japan
+21,Loading data into a data warehouse,success,89328463509,1970-01-01,9563:6439:aa49:2239:6e1d:1c32:b1a0:39c9,California,USA
+22,Transforming data into a unified format,success,89328463510,1970-01-01,ff37:2e54:5ca0:2d77:ec38:9af2:a180:a416,Paris,France
+23,Extracting data from various sources,failed,89328463511,1970-01-01,bd6d:1f65:389f:8977:d411:7194:507f:9870,Florida,USA
+24,Data governance,success,89328463512,1970-01-01,791c:7d56:a736:92e2:523f:1d8b:c1c1:c2e7,Texas,USA
+25,Data quality assurance,success,89328463513,1970-01-01,f73:9467:b9bc:27b0:ed5:2109:e89a:9be8,Texas,USA
+26,Data governance,success,89328463514,1970-01-01,dd06:fb88:e4b0:c6c2:2bd5:2334:eb05:f2bf,California,USA
+27,Optimizing database performance,success,89328463515,1970-01-01,e2b:4e14:ce97:d5ac:ec6d:6fff:ea1e:b936,Florida,USA
+28,Data integration,success,89328463516,1970-01-01,af81:5a83:f68f:14f7:36ea:e98:b9d7:b7d6,Florida,USA
+29,Data governance,success,89328463517,1970-01-01,f8a0:bf7d:f195:8452:d2ac:162d:d49d:b3ea,Tokyo,Japan
+30,Data governance,-,89328463518,1970-01-01,2e0:9665:ad00:a232:ed01:8244:ed87:6e55,Paris,France
+31,Building data pipelines,success,89328463519,1970-01-01,63cd:490d:f782:8e81:6ac3:4ade:7818:bd15,Texas,USA
+32,Data integration,success,89328463520,1970-01-01,7b62:dbba:b416:9c89:fc1f:107:18d:1364,Texas,USA
+33,Loading data into a data warehouse,success,89328463521,1970-01-01,8add:b5d9:9b21:2ca6:a54e:63b0:b9ec:9450,New York,USA
+34,Loading data into a data warehouse,success,89328463522,1970-01-01,9221:2ac2:6b88:c2f:9cdc:560a:8f19:9500,Tokyo,Japan
+35,Transforming data into a unified format,success,89328463523,1970-01-01,9b88:56b1:1f77:19ad:ad3:87ba:87f:c6ce,Tokyo,Japan
+36,Designing and implementing data models,success,89328463524,1970-01-01,d59c:fe8c:cf3:8bc2:7d1f:9183:5f9b:5d34,Queensland,Australia
+37,Designing and implementing data models,success,89328463525,1970-01-01,dc1d:2564:8837:b3b1:c76f:ddc9:4bb5:8f88,Paris,France
+38,Data governance,success,89328463526,1970-01-01,c6dd:c492:7306:c57f:be19:e82b:dd1b:9b0d,New York,USA
+39,Building data pipelines,success,89328463527,1970-01-01,ee61:7de0:83b5:472a:ace8:296:3899:b93c,California,USA
+40,Optimizing database performance,success,89328463528,1970-01-01,ef0b:751e:87b3:5dca:cd66:e7e5:a800:1d8,Paris,France
+41,Optimizing database performance,failed,89328463529,1970-01-01,bb6c:43f0:d2a:2140:c4c4:9eb2:535b:479c,Florida,USA
+42,Data governance,success,89328463530,1970-01-01,95c7:c80:239a:8bf2:a6fc:ea36:5ac8:f254,Florida,USA
+43,Extracting data from various sources,success,89328463531,1970-01-01,ff98:8df7:3132:6e04:83bd:f7e8:6785:6d10,Queensland,Australia
+44,Building data pipelines,failed,89328463532,1970-01-01,9005:f086:b98a:dfb1:fd4b:c187:a367:3ce6,Texas,USA
+45,Extracting data from various sources,success,89328463533,1970-01-01,3de2:1164:958a:e086:9dca:65cb:8a76:692b,Tokyo,Japan
+46,Loading data into a data warehouse,success,89328463534,1970-01-01,8079:2c06:5f42:79f:ed34:4cd0:6189:c1a9,Florida,USA
+47,Extracting data from various sources,failed,89328463535,1970-01-01,a95d:3f9a:d36a:c3d7:f749:7a45:f40e:fdca,California,USA
+48,Transforming data into a unified format,success,89328463536,1970-01-01,a75:b887:d02d:c7e4:bfee:830a:e7fb:e970,Ontario,Canada
+49,Extracting data from various sources,-,89328463537,1970-01-01,730a:74b4:cefe:60a:65b4:c024:b7ce:35c4,Queensland,Australia
+50,Data governance,failed,89328463538,1970-01-01,52d:4f74:ab5f:8a92:14a3:7bec:c56f:786d,Tokyo,Japan
+51,Transforming data into a unified format,failed,89328463539,1970-01-01,7e37:1b8d:19d6:3552:815a:decb:6899:b30b,Paris,France
+52,Transforming data into a unified format,failed,89328463540,1970-01-01,4f10:ac2e:eff1:292a:982b:8ed7:d82c:d605,Texas,USA
+53,Extracting data from various sources,success,89328463541,1970-01-01,6222:683f:1bd0:d94:a68e:1663:4b98:2c76,Ontario,Canada
+54,Data governance,success,89328463542,1970-01-01,ce75:6e62:67e7:78a8:d43e:63bd:daf9:243f,Queensland,Australia
+55,Optimizing database performance,success,89328463543,1970-01-01,63fb:ea24:b02b:e368:a424:3e07:26bd:f745,Paris,France
+56,Data integration,success,89328463544,1970-01-01,5008:92b8:5fad:eeaf:ac82:4d30:5106:b32e,Queensland,Australia
+57,Designing and implementing data models,success,89328463545,1970-01-01,d4df:27ce:d11:314c:14fc:83be:8b53:95e1,Texas,USA
+58,Extracting data from various sources,success,89328463546,1970-01-01,8c3:db6c:b70a:4086:9b5e:ed48:d324:383b,Tokyo,Japan
+59,Data governance,failed,89328463547,1970-01-01,3a40:a149:33b7:9101:1dbf:b685:94d6:454c,Ontario,Canada
+60,Data integration,success,89328463548,1970-01-01,d62:d41f:8d8f:7a8:ac74:d9c5:9e4c:cdd8,Ontario,Canada
+61,Transforming data into a unified format,success,89328463549,1970-01-01,22ac:f16e:b05a:b256:be1f:1393:ec28:8e5f,California,USA
+62,Data quality assurance,success,89328463550,1970-01-01,b6dc:4114:7724:a363:f528:cdab:9c4e:cc94,Ontario,Canada
+63,Data governance,success,89328463551,1970-01-01,76e8:4e00:cd1b:7e0f:a48:14c9:4dc8:3f75,Paris,France
+64,Data quality assurance,success,89328463552,1970-01-01,7212:222b:45e1:3bf6:675d:f3bc:7a47:52c3,Paris,France
+65,Optimizing database performance,success,89328463553,1970-01-01,501a:40b3:98ab:1191:6e80:47cd:83ef:5378,Texas,USA
+66,Data quality assurance,success,89328463554,1970-01-01,e5a1:6234:52cb:e230:b67:9d21:2116:7438,New York,USA
+67,Data quality assurance,-,89328463555,1970-01-01,cf02:f6f7:d6ac:9bdb:bce6:299f:6118:a00e,Ontario,Canada
+68,Data quality assurance,success,89328463556,1970-01-01,48da:eb41:d135:7ef9:1633:68c3:ec38:a810,Queensland,Australia
+69,Data quality assurance,success,89328463557,1970-01-01,92e6:a918:5d5a:f41b:13db:1263:dadb:36b9,Queensland,Australia
+70,Data governance,-,89328463558,1970-01-01,1d42:51ec:30da:436f:8036:b74d:186:349f,Paris,France
+71,Optimizing database performance,success,89328463559,1970-01-01,80b6:ed63:9bd0:9624:7b2c:3be6:7ce0:bbab,New York,USA
+72,Extracting data from various sources,success,89328463560,1970-01-01,80fb:e0c1:706e:c1b4:5e43:dac6:69d8:daf6,New York,USA
+73,Optimizing database performance,success,89328463561,1970-01-01,f0a:c860:31fe:aa94:bdcf:4fb9:3e84:ba13,Texas,USA
+74,Designing and implementing data models,success,89328463562,1970-01-01,1c48:d689:b5bf:b490:cac2:f448:a2f5:800f,Texas,USA
+75,Loading data into a data warehouse,success,89328463563,1970-01-01,2811:3a17:d0fa:f5b4:6369:6943:1be5:3e28,Queensland,Australia
+76,Data quality assurance,failed,89328463564,1970-01-01,b1b6:c737:dc45:16e4:2a0d:d6ac:5aa:ea4b,Florida,USA
+77,Data quality assurance,success,89328463565,1970-01-01,b8d8:df85:1baa:48e:f904:636f:78ad:2c32,Ontario,Canada
+78,Building data pipelines,failed,89328463566,1970-01-01,d15a:59c8:ec68:61bf:19ec:5d75:2bc1:361f,Florida,USA
+79,Data integration,success,89328463567,1970-01-01,3f18:86f4:e979:ca72:2674:5b59:e004:7677,Paris,France
+80,Data governance,success,89328463568,1970-01-01,53bd:c073:56f7:ba2c:4e7e:3f06:9e56:373,Florida,USA
+81,Extracting data from various sources,-,89328463569,1970-01-01,3d94:7432:4d0c:6fa:bc85:c2b7:6213:1c1a,Paris,France
+82,Transforming data into a unified format,success,89328463570,1970-01-01,7c4:f832:7b51:9cc0:5b13:e0af:f498:aec1,Texas,USA
+83,Extracting data from various sources,success,89328463571,1970-01-01,b4d6:e3cc:eb62:a9fc:55e0:cd5c:4d83:8674,Florida,USA
+84,Data governance,success,89328463572,1970-01-01,9553:4ab9:6ca2:d260:ecb4:f035:f7f2:8941,New York,USA
+85,Data integration,success,89328463573,1970-01-01,3a7:5c6f:a477:2b76:2d06:77e9:5892:10d3,New York,USA
+86,Loading data into a data warehouse,-,89328463574,1970-01-01,c100:1f7a:9980:bc1a:7e1a:61c0:ad45:4448,Queensland,Australia
+87,Extracting data from various sources,success,89328463575,1970-01-01,ca1e:7132:a6d0:cadd:dd0d:5d8f:6e54:2d18,New York,USA
+88,Loading data into a data warehouse,success,89328463576,1970-01-01,9e76:b33f:d856:256e:1d1:675c:8efd:4a8,Texas,USA
+89,Extracting data from various sources,success,89328463577,1970-01-01,3432:8c97:65b7:898c:2de0:5014:e92a:3355,Queensland,Australia
+90,Extracting data from various sources,success,89328463578,1970-01-01,73de:c6ce:85a8:765a:545e:3211:ab58:b4e2,Paris,France
+91,Extracting data from various sources,failed,89328463579,1970-01-01,a9c3:7485:9647:6ec5:701f:59b1:6cc4:8116,Ontario,Canada
+92,Optimizing database performance,failed,89328463580,1970-01-01,a9c3:2127:99d7:3382:fd54:2b0d:1238:afad,California,USA
+93,Optimizing database performance,success,89328463581,1970-01-01,6fc:e149:a9ee:72b7:ffe5:784b:6ccb:4a91,Tokyo,Japan
+94,Data governance,success,89328463582,1970-01-01,85b9:1b0d:6702:d1:9409:5688:b48d:895e,Florida,USA
+95,Data integration,failed,89328463583,1970-01-01,bfcb:95ea:609c:ed04:a3f4:da3b:1382:a0cf,New York,USA
+96,Transforming data into a unified format,success,89328463584,1970-01-01,5267:f79a:96f0:9241:8d8d:db6f:eb42:c93e,Queensland,Australia
+97,Transforming data into a unified format,success,89328463585,1970-01-01,5b32:5d2b:6f28:9d86:895f:3fc2:ae67:278c,Texas,USA
+98,Transforming data into a unified format,success,89328463586,1970-01-01,6ecc:9368:90c:b4ee:8c6b:38da:9d9c:ebe2,Tokyo,Japan
+99,Data quality assurance,failed,89328463587,1970-01-01,7582:eef6:45c:ead3:b68d:7844:adb2:18a2,Paris,France
+100,Data governance,success,89328463588,1970-01-01,8b6:396e:7626:9766:2d11:b281:a0d6:c34a,Queensland,Australia
+101,Data governance,failed,89328463589,1970-01-01,b465:368e:f6ce:f133:207b:a2c4:bbbd:2eda,New York,USA
+102,Loading data into a data warehouse,success,89328463590,1970-01-01,ff1b:9545:2ab1:66a6:825a:df34:a5ee:8f47,New York,USA
+103,Data governance,failed,89328463591,1970-01-01,4c41:ebb3:95a2:2455:e2d2:caab:22d2:a551,Florida,USA
+104,Data governance,success,89328463592,1970-01-01,80b2:40d6:fcd8:92af:10be:f6d2:2e70:43ff,Queensland,Australia
+105,Extracting data from various sources,success,89328463593,1970-01-01,3ee0:ac:6704:c165:6c9c:5232:23b5:fdae,New York,USA
+106,Data integration,success,89328463594,1970-01-01,3235:8ff9:67ba:515b:2990:fb6c:b6f1:d139,Texas,USA
+107,Extracting data from various sources,success,89328463595,1970-01-01,f10d:e899:8a8e:2cec:316d:433d:3516:1f84,Queensland,Australia
+108,Data integration,success,89328463596,1970-01-01,40e8:999d:cd5c:c19f:5f46:b831:1c1e:e5e4,Paris,France
+109,Data quality assurance,success,89328463597,1970-01-01,38b6:33dd:2bce:21e9:7353:3dab:e6c1:7be4,Ontario,Canada
+110,Designing and implementing data models,success,89328463598,1970-01-01,7618:619f:e246:32c2:53c1:b166:9b68:810a,Ontario,Canada
+111,Data integration,success,89328463599,1970-01-01,d329:2612:1bcd:357c:a759:c33e:1c64:92e9,Tokyo,Japan
+112,Designing and implementing data models,success,89328463600,1970-01-01,c6c2:2b69:f833:4ddd:b326:e9cc:8f28:53fa,Queensland,Australia
+113,Extracting data from various sources,success,89328463601,1970-01-01,106c:1c94:9d9f:942e:1682:4c8a:9037:bcae,Tokyo,Japan
+114,Data governance,success,89328463602,1970-01-01,9e8a:6280:6436:a282:5bdf:7d2f:6dbc:25be,Ontario,Canada
+115,Extracting data from various sources,success,89328463603,1970-01-01,afbb:b6f5:f0f4:9aa5:edc7:f4ff:c98e:eae8,Queensland,Australia
+116,Data governance,success,89328463604,1970-01-01,172:33a6:9a52:8024:3ef5:7c06:698:e8dd,Florida,USA
+117,Data governance,success,89328463605,1970-01-01,7d04:8c31:a8b1:945c:5cc5:9840:f59e:69a3,Paris,France
+118,Data quality assurance,-,89328463606,1970-01-01,ab93:8433:8959:bf13:e03b:2fbd:ac78:ca7b,Texas,USA
+119,Designing and implementing data models,success,89328463607,1970-01-01,a982:21c7:32:e8e6:e40e:24d9:fc3f:ed1c,New York,USA
+120,Data integration,success,89328463608,1970-01-01,c60a:e241:9999:bd77:a53b:2a97:2ab7:d4de,Ontario,Canada
+121,Data quality assurance,success,89328463609,1970-01-01,e213:8755:6e97:a12a:76b1:598e:59ce:b80c,New York,USA
+122,Data integration,failed,89328463610,1970-01-01,6185:52be:4c86:deb2:cc1:54aa:8881:eb4,New York,USA
+123,Extracting data from various sources,failed,89328463611,1970-01-01,febe:ff6:e098:2245:b9ad:9963:db30:fd49,Ontario,Canada
+124,Optimizing database performance,-,89328463612,1970-01-01,41cf:d957:e026:37d1:78e1:daaf:e5ca:b1a6,Florida,USA
+125,Data integration,success,89328463613,1970-01-01,52e0:8024:304d:4511:e526:aa66:fa50:5c7b,Paris,France
+126,Designing and implementing data models,-,89328463614,1970-01-01,413e:b208:41cf:cd5:120d:b9c:d6c:f492,Paris,France
+127,Designing and implementing data models,success,89328463615,1970-01-01,efa7:3f72:6b75:6a52:7ab5:5868:dc6:3d13,California,USA
+128,Loading data into a data warehouse,success,89328463616,1970-01-01,2ba:b9ea:f31d:1d74:5f73:ecbd:3b1d:72d0,Florida,USA
+129,Data governance,success,89328463617,1970-01-01,1751:eafe:2db7:2e1:9bee:bc6f:fa93:50d3,Queensland,Australia
+130,Designing and implementing data models,success,89328463618,1970-01-01,1c9c:7f5f:74d:e206:8071:6b29:3e97:5ced,Tokyo,Japan
+131,Data governance,success,89328463619,1970-01-01,65aa:83d1:8f02:91b9:2a32:5f1c:7dc2:6828,Ontario,Canada
+132,Extracting data from various sources,success,89328463620,1970-01-01,3001:7e5a:ea40:699a:55f3:d8ed:6179:36b6,Texas,USA
+133,Data integration,success,89328463621,1970-01-01,aa88:829:a08f:84a9:87c0:8bcb:d71:dca1,New York,USA
+134,Transforming data into a unified format,success,89328463622,1970-01-01,bf17:9758:bc23:fa47:11b1:f316:887f:5a62,Ontario,Canada
+135,Data quality assurance,success,89328463623,1970-01-01,9e45:994b:7a7d:ef2e:684f:3b06:c8d6:76cc,New York,USA
+136,Loading data into a data warehouse,success,89328463624,1970-01-01,d65d:390a:cdd3:762b:da5f:f773:8012:1283,Tokyo,Japan
+137,Optimizing database performance,success,89328463625,1970-01-01,7c0f:2f4e:db70:84a1:456:2d6a:3b9f:427c,California,USA
+138,Building data pipelines,success,89328463626,1970-01-01,f026:f696:2efa:98ab:eb98:892d:914:72ad,Tokyo,Japan
+139,Data quality assurance,-,89328463627,1970-01-01,3b6b:3dcb:f84c:16f4:d2bc:1247:fb3c:91b2,Ontario,Canada
+140,Data governance,success,89328463628,1970-01-01,cd1a:8786:c69b:ff8:e728:e50:8551:dba0,California,USA
+141,Data governance,success,89328463629,1970-01-01,54ce:20b9:99ea:c086:5a82:cec5:3c0c:c0e5,Texas,USA
+142,Loading data into a data warehouse,failed,89328463630,1970-01-01,89eb:ae21:b646:eb04:2988:db13:436f:f38a,Tokyo,Japan
+143,Optimizing database performance,success,89328463631,1970-01-01,5b4f:ee7:b9b9:9171:3363:dcdc:9cfc:ffec,Tokyo,Japan
+144,Extracting data from various sources,success,89328463632,1970-01-01,4ac1:3bf2:9a68:ae72:f2f6:2721:7f05:35d6,Florida,USA
+145,Extracting data from various sources,success,89328463633,1970-01-01,5527:d760:f630:b3d:b8cb:92b9:8361:6ff7,Ontario,Canada
+146,Loading data into a data warehouse,success,89328463634,1970-01-01,f516:afb9:1966:4f55:6660:e9eb:261c:d81b,California,USA
+147,Designing and implementing data models,-,89328463635,1970-01-01,18cc:3611:8dca:a21a:4c86:ab42:5215:a6b9,Florida,USA
+148,Optimizing database performance,success,89328463636,1970-01-01,b5b:980e:e114:aa58:ac67:b9a3:c02a:caf2,Tokyo,Japan
+149,Extracting data from various sources,-,89328463637,1970-01-01,d12b:342e:263b:19e7:12c9:798a:5cba:78c0,Tokyo,Japan
+150,Data governance,success,89328463638,1970-01-01,c71f:2f9b:b9a:e393:7469:2759:f531:afba,Queensland,Australia
+151,Data integration,success,89328463639,1970-01-01,5262:ff87:6a6:9f7d:46c:6092:ad11:d441,Queensland,Australia
+152,Extracting data from various sources,success,89328463640,1970-01-01,ac2:c31f:9f83:3b56:56bb:7ef6:bd49:62d3,California,USA
+153,Loading data into a data warehouse,success,89328463641,1970-01-01,20a:e888:de3a:8d71:fdab:dede:dd6:855a,Ontario,Canada
+154,Designing and implementing data models,success,89328463642,1970-01-01,cc1a:5f68:2445:7c73:59e:4474:6066:c4ae,Queensland,Australia
+155,Loading data into a data warehouse,success,89328463643,1970-01-01,fdd8:bfbc:6dbf:3abe:93ec:7e8f:10c8:d226,New York,USA
+156,Transforming data into a unified format,success,89328463644,1970-01-01,a0c7:bd76:37b6:a7d3:25dc:1c6d:379d:b0f2,Texas,USA
+157,Data quality assurance,success,89328463645,1970-01-01,dcdb:b6a5:33f8:66e6:f68c:8221:671d:4f03,Paris,France
+158,Transforming data into a unified format,success,89328463646,1970-01-01,733d:85ed:4704:4122:718:18c7:3a62:6f71,Tokyo,Japan
+159,Transforming data into a unified format,-,89328463647,1970-01-01,fb2f:974c:f287:85be:eea9:f1ec:f85e:8c68,Tokyo,Japan
+160,Extracting data from various sources,failed,89328463648,1970-01-01,4034:6240:4c8b:e2b3:73f1:59f1:b6a6:8606,New York,USA
+161,Extracting data from various sources,success,89328463649,1970-01-01,9f64:9c46:6c06:d4d4:5826:e259:5065:759d,Texas,USA
+162,Extracting data from various sources,success,89328463650,1970-01-01,826f:940e:4d74:e04c:3687:61d0:ae44:2b9a,New York,USA
+163,Loading data into a data warehouse,success,89328463651,1970-01-01,c1c3:4bcf:591b:ad1:ca84:1851:e818:66ea,Texas,USA
+164,Data quality assurance,success,89328463652,1970-01-01,572e:4225:285b:f134:e54d:9fc:d503:ccae,Florida,USA
+165,Loading data into a data warehouse,-,89328463653,1970-01-01,55c:bca:497a:a6e9:e3d5:e454:e858:7ee,Tokyo,Japan
+166,Loading data into a data warehouse,success,89328463654,1970-01-01,273f:d07:78be:70b2:abf5:6974:7df5:314e,Ontario,Canada
+167,Optimizing database performance,success,89328463655,1970-01-01,7fa9:21fa:1956:4b50:4e24:d7a5:22b5:1b81,New York,USA
+168,Extracting data from various sources,success,89328463656,1970-01-01,c174:83e9:7a64:4a14:afe5:3e16:d600:5afa,Ontario,Canada
+169,Optimizing database performance,success,89328463657,1970-01-01,b86d:a1f4:27bf:504:5025:1792:568b:555b,Texas,USA
+170,Extracting data from various sources,failed,89328463658,1970-01-01,d088:f493:111e:7557:1433:23b4:6bc4:b6bf,Tokyo,Japan
+171,Extracting data from various sources,success,89328463659,1970-01-01,9384:eaee:4434:5902:5513:f879:a294:b888,Paris,France
+172,Building data pipelines,success,89328463660,1970-01-01,b1f1:952:3fc0:5c18:8c09:a9d5:c50e:4c5a,Paris,France
+173,Extracting data from various sources,success,89328463661,1970-01-01,9024:e471:17ec:e092:208a:a083:6387:9c2c,Paris,France
+174,Extracting data from various sources,success,89328463662,1970-01-01,17b5:61ba:2f78:7da7:2917:38b3:560c:9950,Texas,USA
+175,Optimizing database performance,success,89328463663,1970-01-01,1d09:3582:cddd:4943:cf42:2628:4106:c7d3,New York,USA
+176,Loading data into a data warehouse,success,89328463664,1970-01-01,e603:85ab:9755:c3d9:7000:cbb0:33c2:97c0,Texas,USA
+177,Data quality assurance,-,89328463665,1970-01-01,c409:d1a8:5209:7489:66eb:8918:17ff:f436,Florida,USA
+178,Building data pipelines,success,89328463666,1970-01-01,fe28:43c4:405c:cc6:80e6:771:9add:9a70,Tokyo,Japan
+179,Data quality assurance,success,89328463667,1970-01-01,1e1:ee72:93f6:dc3d:7795:133d:cf6f:1134,Tokyo,Japan
+180,Data quality assurance,success,89328463668,1970-01-01,ba84:61eb:614a:43ee:e:f356:c17b:8fb1,Paris,France
+181,Loading data into a data warehouse,success,89328463669,1970-01-01,af21:f2cd:6516:894:3c44:bc03:f433:134,New York,USA
+182,Loading data into a data warehouse,success,89328463670,1970-01-01,6ca2:a9e3:ad0e:ab37:b6b:e730:151d:fc5e,Texas,USA
+183,Data governance,-,89328463671,1970-01-01,3897:e12d:69cd:5b49:cf6f:732c:ed58:65c4,California,USA
+184,Extracting data from various sources,success,89328463672,1970-01-01,9dcb:a790:4dfe:314d:55a2:6d6:e321:946f,New York,USA
+185,Data quality assurance,success,89328463673,1970-01-01,78c4:f53b:38ce:a89b:8a72:e70b:49a2:7b19,Florida,USA
+186,Designing and implementing data models,-,89328463674,1970-01-01,995:6a6c:2535:9c3a:a69c:94af:3b7:3da,Ontario,Canada
+187,Extracting data from various sources,success,89328463675,1970-01-01,3f0e:ec18:482d:3c1e:c60e:3331:d1df:e08d,Tokyo,Japan
+188,Data integration,success,89328463676,1970-01-01,18f5:7fc9:9977:50c:3c8d:e214:e711:8ca9,Tokyo,Japan
+189,Building data pipelines,success,89328463677,1970-01-01,525c:b14f:12e2:18e0:633a:795:aff3:a5dd,Paris,France
+190,Data integration,failed,89328463678,1970-01-01,d021:a800:4cbd:f031:8408:159:f047:c929,Florida,USA
+191,Data quality assurance,success,89328463679,1970-01-01,3d11:3252:d7e3:d436:d523:c04b:94ce:f104,Tokyo,Japan
+192,Designing and implementing data models,success,89328463680,1970-01-01,cfc5:75d:7ab8:da4b:2787:153e:ebed:2626,Texas,USA
+193,Data integration,success,89328463681,1970-01-01,6d90:a802:6eac:17a7:2a4a:a0b9:1770:6ba2,Florida,USA
+194,Data governance,success,89328463682,1970-01-01,4ff9:c92e:8922:35cc:c958:28eb:c9eb:38e3,Ontario,Canada
+195,Data governance,success,89328463683,1970-01-01,7907:cf49:3ff2:57b7:1da8:7917:8a67:86ed,Tokyo,Japan
+196,Data quality assurance,success,89328463684,1970-01-01,268:68f:1a55:9671:97f9:14da:5218:d412,California,USA
+197,Data quality assurance,success,89328463685,1970-01-01,24c2:f0e0:d02b:ae31:1ca0:b106:f9f6:9a9,Tokyo,Japan
+198,Extracting data from various sources,failed,89328463686,1970-01-01,88c1:3921:743f:8a30:b623:3d94:aca6:f26b,Tokyo,Japan
+199,Designing and implementing data models,-,89328463687,1970-01-01,65b9:a968:3915:946d:1874:f86e:e7f6:1b00,Tokyo,Japan
+200,Extracting data from various sources,failed,89328463688,1970-01-01,a3d1:d1f3:1b3e:8e4e:e5c7:ed76:b98f:66d5,New York,USA
+201,Building data pipelines,success,89328463689,1970-01-01,4a9d:acea:93c:e4ae:78fd:e7bf:53fc:6906,Queensland,Australia
+202,Transforming data into a unified format,success,89328463690,1970-01-01,7c57:72e0:43c7:2ad1:398f:3b90:8f33:9d6c,Texas,USA
+203,Loading data into a data warehouse,success,89328463691,1970-01-01,6f6c:e655:8e36:6798:a402:2bb2:f3a5:f7e4,Paris,France
+204,Loading data into a data warehouse,success,89328463692,1970-01-01,3433:cd30:f42a:6677:88f3:7da2:bad9:4110,Ontario,Canada
+205,Extracting data from various sources,success,89328463693,1970-01-01,a06e:11ab:851f:91bc:a6b6:e8f:e337:7145,Texas,USA
+206,Optimizing database performance,success,89328463694,1970-01-01,1fc7:3833:696d:17b8:e7dd:f1dc:d65f:f685,California,USA
+207,Extracting data from various sources,success,89328463695,1970-01-01,85d3:674f:a871:b773:5fad:bcf6:32cb:2f86,Texas,USA
+208,Building data pipelines,success,89328463696,1970-01-01,fc56:d331:6ef7:3fe8:49ef:36cb:bab4:c727,New York,USA
+209,Loading data into a data warehouse,success,89328463697,1970-01-01,a236:ed7b:d520:55d:18d2:5405:b44:9dcf,Florida,USA
+210,Data quality assurance,success,89328463698,1970-01-01,e0ab:d63b:14a:74e2:249e:b2d4:16bd:7f09,Ontario,Canada
+211,Extracting data from various sources,success,89328463699,1970-01-01,c0e7:a799:98e9:f522:f49f:a046:4a81:e7d9,Florida,USA
+212,Transforming data into a unified format,success,89328463700,1970-01-01,973a:c36e:e763:5a27:bcd2:a5e9:d86:ee80,Paris,France
+213,Optimizing database performance,success,89328463701,1970-01-01,fea7:9fd6:2f2e:90b9:b96c:6b2e:6464:d3a0,Queensland,Australia
+214,Data governance,success,89328463702,1970-01-01,3aa6:cada:ecaa:a8b0:2549:8012:813f:3892,Queensland,Australia
+215,Optimizing database performance,success,89328463703,1970-01-01,4b86:15a7:7c32:eb9c:ab2a:d328:7eed:d7c6,Florida,USA
+216,Data integration,-,89328463704,1970-01-01,1fd1:e15:fb5c:ba51:aeaa:3a3a:8f61:4c01,Tokyo,Japan
+217,Extracting data from various sources,success,89328463705,1970-01-01,3cda:87da:566f:50ab:1e8a:b70f:d1b2:6e8c,Paris,France
+218,Building data pipelines,success,89328463706,1970-01-01,69af:bfb3:3b0a:f7c2:4a1e:590:426b:95d6,Queensland,Australia
+219,Designing and implementing data models,success,89328463707,1970-01-01,ddc6:1778:9c39:306f:1fa0:31dc:e2b1:920d,Tokyo,Japan
+220,Data integration,success,89328463708,1970-01-01,7dc5:8bcf:a1dc:e95f:2333:51c0:b1c3:da00,Paris,France
+221,Building data pipelines,failed,89328463709,1970-01-01,8f6:384:2c7f:39a2:ef46:a155:f255:86cf,New York,USA
+222,Designing and implementing data models,success,89328463710,1970-01-01,e73c:b3f:b7c3:5b94:ea97:2373:7e99:8bdc,Florida,USA
+223,Loading data into a data warehouse,success,89328463711,1970-01-01,d49c:bde9:b94f:f1cc:fdc0:2892:f8bb:9c0c,New York,USA
+224,Transforming data into a unified format,success,89328463712,1970-01-01,6db0:afb6:7830:c7a1:ba62:c47a:e54b:d768,Tokyo,Japan
+225,Extracting data from various sources,success,89328463713,1970-01-01,e264:5181:a78c:9eb7:2dc8:85e4:248d:ef76,Florida,USA
+226,Extracting data from various sources,success,89328463714,1970-01-01,d8f9:3e17:c870:bad4:e55:6cf1:d12c:f12b,New York,USA
+227,Transforming data into a unified format,success,89328463715,1970-01-01,b004:2535:f899:c6ea:1f8c:7c06:9061:869f,Florida,USA
+228,Data integration,failed,89328463716,1970-01-01,39e4:bb81:a795:5e94:59e5:3715:8cc6:7d6d,Ontario,Canada
+229,Transforming data into a unified format,success,89328463717,1970-01-01,14c1:a6ab:a2f:d095:4bb5:cb2e:8da9:a389,Florida,USA
+230,Data integration,-,89328463718,1970-01-01,6711:7e47:9bfa:373a:2790:16ce:edb7:2604,Ontario,Canada
+231,Data governance,success,89328463719,1970-01-01,ba9a:77cf:59c0:e7fc:db1d:670f:a800:8040,Florida,USA
+232,Designing and implementing data models,success,89328463720,1970-01-01,5b93:8e26:88c8:8c0f:213e:3cd1:6f48:a0c2,Tokyo,Japan
+233,Building data pipelines,success,89328463721,1970-01-01,5bbe:2479:d8f5:926b:f7d6:e2c3:d36a:dee,California,USA
+234,Optimizing database performance,success,89328463722,1970-01-01,cd62:bf3e:8218:acd4:75aa:69c6:2ebf:15ec,New York,USA
+235,Data integration,success,89328463723,1970-01-01,e96e:a755:672a:f7d5:17ad:f389:166:5dba,Paris,France
+236,Optimizing database performance,success,89328463724,1970-01-01,4847:6eb5:21d3:d1ff:9fb2:8481:80d2:9dbc,Texas,USA
+237,Optimizing database performance,success,89328463725,1970-01-01,9734:e037:4351:8b66:5d77:bfbc:f5dc:cc03,Queensland,Australia
+238,Data quality assurance,success,89328463726,1970-01-01,cad7:242a:45a:fbed:89ce:d42f:c65f:a98f,California,USA
+239,Data integration,failed,89328463727,1970-01-01,ef19:ade6:297c:4527:1b75:b9ae:4bd3:48b0,Queensland,Australia
+240,Building data pipelines,success,89328463728,1970-01-01,48fc:44cb:50fb:dbb3:15c5:55a7:28a3:1d6d,Texas,USA
+241,Data governance,-,89328463729,1970-01-01,d1a4:e038:6421:5d67:61a8:a723:ab8:a08e,Paris,France
+242,Loading data into a data warehouse,success,89328463730,1970-01-01,ad3:b519:21db:da56:4b3d:e616:5842:ea61,Ontario,Canada
+243,Data governance,success,89328463731,1970-01-01,3995:1005:10d7:78b9:d56a:b415:8550:bc4e,Queensland,Australia
+244,Data quality assurance,success,89328463732,1970-01-01,31f6:8b4a:b845:d0fb:58f0:ca09:f6bc:dda7,New York,USA
+245,Extracting data from various sources,success,89328463733,1970-01-01,a60a:d8c1:2284:cd0e:87ba:487:9ddd:9058,Florida,USA
+246,Data governance,success,89328463734,1970-01-01,808a:b22a:6384:f3b2:bdb7:75b2:a9d1:e61b,Ontario,Canada
+247,Optimizing database performance,success,89328463735,1970-01-01,f921:b090:a400:35a0:b475:e70a:f775:ef2b,Tokyo,Japan
+248,Data governance,success,89328463736,1970-01-01,e33d:d450:5c7a:a8ac:2771:75b0:8b18:76e,Tokyo,Japan
+249,Extracting data from various sources,success,89328463737,1970-01-01,bd1a:940:d17e:6ecf:b4f1:c991:112:3095,New York,USA
+250,Building data pipelines,success,89328463738,1970-01-01,5423:209f:39eb:de2b:899d:2eff:b2c7:1b34,Tokyo,Japan
+251,Data quality assurance,success,89328463739,1970-01-01,71f9:ed:9638:86cf:159b:b912:f20c:a1f9,Tokyo,Japan
+252,Extracting data from various sources,failed,89328463740,1970-01-01,1655:8067:9c99:30e0:fde:9ec8:6ff2:d2ec,Ontario,Canada
+253,Optimizing database performance,success,89328463741,1970-01-01,dccf:543:a165:52a9:cdcb:b4ea:a1ab:da19,Ontario,Canada
+254,Extracting data from various sources,success,89328463742,1970-01-01,b0fd:8646:2880:604e:f83:bf0d:683a:c0ae,Queensland,Australia
+255,Loading data into a data warehouse,success,89328463743,1970-01-01,38e0:5ba9:d87c:ed13:9307:f5ad:24f:37a4,Florida,USA
+256,Data governance,success,89328463744,1970-01-01,c7aa:4feb:2511:8dbc:770d:411f:94c6:1413,Texas,USA
+257,Data quality assurance,success,89328463745,1970-01-01,8208:a22f:cb1e:8e31:9459:7fa6:1ec5:721a,Paris,France
+258,Data integration,success,89328463746,1970-01-01,8652:e7b8:f917:ef92:2fa5:6622:589d:806d,New York,USA
+259,Data integration,-,89328463747,1970-01-01,11ab:54e:eca0:df68:e88:30a0:5eef:e421,California,USA
+260,Extracting data from various sources,success,89328463748,1970-01-01,b92b:4e2:9ef6:f89f:8b93:fc8e:500d:b1fe,New York,USA
+261,Building data pipelines,failed,89328463749,1970-01-01,894:c218:1c66:1560:c48b:4a87:1f84:5036,Queensland,Australia
+262,Building data pipelines,failed,89328463750,1970-01-01,7a7a:52ed:8db8:3117:53b:c260:d02b:a42,Tokyo,Japan
+263,Building data pipelines,success,89328463751,1970-01-01,1d91:dbae:9db:1d84:39ea:154f:a5c4:2ac9,New York,USA
+264,Data quality assurance,success,89328463752,1970-01-01,ad8f:32d2:a647:f251:1aeb:80a0:b9f:df52,California,USA
+265,Building data pipelines,success,89328463753,1970-01-01,ffc4:7554:e1a1:919b:35c4:eef:2302:33c8,Tokyo,Japan
+266,Extracting data from various sources,success,89328463754,1970-01-01,4a83:41f2:56d0:726d:8c09:d7e5:927f:b05b,Queensland,Australia
+267,Designing and implementing data models,success,89328463755,1970-01-01,939d:fda0:fc0:7e8:8727:bd46:b13b:f25c,Florida,USA
+268,Data quality assurance,success,89328463756,1970-01-01,6ba3:ede0:bdb8:1f84:3ce9:a761:9553:1b45,Tokyo,Japan
+269,Extracting data from various sources,success,89328463757,1970-01-01,6180:6955:64ff:9378:223a:b976:1c46:1b94,Tokyo,Japan
+270,Designing and implementing data models,success,89328463758,1970-01-01,75b7:2e0d:49ce:56ab:bc17:b5f9:2237:2be3,California,USA
+271,Transforming data into a unified format,success,89328463759,1970-01-01,15bd:4b1b:49a6:79d7:3453:4081:ec25:d092,Queensland,Australia
+272,Data quality assurance,success,89328463760,1970-01-01,cc03:ca75:d8cd:bf7d:3173:3762:cd58:af31,Texas,USA
+273,Transforming data into a unified format,-,89328463761,1970-01-01,c04f:5fb8:7a70:b943:48fa:7e58:24c5:982,Paris,France
+274,Designing and implementing data models,success,89328463762,1970-01-01,3bd1:3a29:be50:3107:ee7:d922:6b59:f86d,Texas,USA
+275,Data integration,success,89328463763,1970-01-01,707e:5af2:fdcf:1ff0:80db:11f:356c:ec9c,New York,USA
+276,Extracting data from various sources,failed,89328463764,1970-01-01,2e09:906e:af48:c457:7a:5ba3:558:c44c,New York,USA
+277,Data integration,success,89328463765,1970-01-01,e7aa:9eac:29c:e2cf:6097:3c0e:e67a:e7c6,New York,USA
+278,Extracting data from various sources,failed,89328463766,1970-01-01,5ad8:cb42:13c4:71cd:a117:e40d:9274:45ea,Tokyo,Japan
+279,Loading data into a data warehouse,success,89328463767,1970-01-01,d1c2:a5b0:f9bd:186c:9555:52cc:a774:48d3,Texas,USA
+280,Data integration,failed,89328463768,1970-01-01,def2:368f:6c2a:c217:62c3:dda7:f699:ee7b,Paris,France
+281,Data integration,success,89328463769,1970-01-01,7d9c:29b3:da0b:d7f8:1d77:fe15:a2d9:6a8f,Ontario,Canada
+282,Transforming data into a unified format,success,89328463770,1970-01-01,d772:7651:cc7e:960d:fdbb:c875:207c:5f9e,Florida,USA
+283,Data integration,success,89328463771,1970-01-01,9b87:99b:d15a:9ffb:7e57:fa7b:ec0b:e1c1,Queensland,Australia
+284,Loading data into a data warehouse,success,89328463772,1970-01-01,549f:d14e:9559:5968:7929:548e:4e59:a79b,California,USA
+285,Data integration,success,89328463773,1970-01-01,6e41:61fc:619d:ca09:9fc3:3b5a:9b6c:714f,Ontario,Canada
+286,Designing and implementing data models,failed,89328463774,1970-01-01,4eea:8703:a676:ca59:f86c:33d9:9095:2c58,Queensland,Australia
+287,Loading data into a data warehouse,success,89328463775,1970-01-01,9cc3:25d3:f1d1:e00d:f818:d684:c3f9:ca56,Paris,France
+288,Data quality assurance,success,89328463776,1970-01-01,9fb6:d418:a57a:3f1d:cfcd:c581:3ecc:93bb,Texas,USA
+289,Loading data into a data warehouse,success,89328463777,1970-01-01,ae5d:da9b:a345:781e:386a:5bc:d895:7e76,New York,USA
+290,Building data pipelines,success,89328463778,1970-01-01,3e71:9bd1:eeb2:1b12:bc4b:c52a:e18c:eb13,Ontario,Canada
+291,Building data pipelines,success,89328463779,1970-01-01,b8db:c481:befa:6efc:acb4:421f:af64:ff0,Paris,France
+292,Data governance,success,89328463780,1970-01-01,a057:b591:95c2:81bf:1bea:fd42:e2e7:ae78,New York,USA
+293,Designing and implementing data models,failed,89328463781,1970-01-01,6ece:9ba1:31bd:6a83:3067:5aaa:3109:ba2e,Texas,USA
+294,Loading data into a data warehouse,success,89328463782,1970-01-01,10cf:a8fb:fe33:c17:f781:9f21:7bdb:8348,Texas,USA
+295,Building data pipelines,-,89328463783,1970-01-01,7713:abe4:8f7a:ed50:ccb:fa76:3d32:5c2f,Texas,USA
+296,Transforming data into a unified format,success,89328463784,1970-01-01,49ab:f839:9af5:3648:2335:827e:610e:6f7a,New York,USA
+297,Data integration,failed,89328463785,1970-01-01,eadb:2104:b55e:7cb0:2359:10b6:8105:1b6d,Tokyo,Japan
+298,Data governance,success,89328463786,1970-01-01,6646:8102:df0c:7c3a:78d3:e401:529:80b5,Ontario,Canada
+299,Data integration,success,89328463787,1970-01-01,1d06:fd10:dd50:46e2:d626:41d1:36d0:8a02,Tokyo,Japan
+300,Loading data into a data warehouse,success,89328463788,1970-01-01,6098:da0f:35b9:3004:4292:bc8:c66c:5254,Texas,USA
+301,Data quality assurance,failed,89328463789,1970-01-01,dfcb:e176:aede:95be:e8f:72ff:f366:4e07,Queensland,Australia
+302,Data governance,success,89328463790,1970-01-01,e68b:bbc6:33:fb03:bb9f:23bb:ae07:58ce,Queensland,Australia
+303,Loading data into a data warehouse,success,89328463791,1970-01-01,b941:597:3798:fb3a:99b4:f3ab:34a3:5852,Tokyo,Japan
+304,Loading data into a data warehouse,success,89328463792,1970-01-01,f58e:d721:ca9f:7e37:8f85:16:d3b7:ea12,Florida,USA
+305,Data governance,success,89328463793,1970-01-01,e3e4:c38e:8964:5028:81f4:704f:382f:7bdb,Queensland,Australia
+306,Data quality assurance,failed,89328463794,1970-01-01,2dcb:fe6f:dd35:bb6a:236a:da0e:343c:64f7,New York,USA
+307,Data quality assurance,-,89328463795,1970-01-01,1bd0:f846:ba1b:d49f:e93a:32a8:6cbf:ae8c,California,USA
+308,Loading data into a data warehouse,success,89328463796,1970-01-01,a176:e9c5:697c:dc14:9b6c:744b:c599:e3d7,Paris,France
+309,Building data pipelines,success,89328463797,1970-01-01,8e9f:619e:926f:ab1b:9542:199b:b3a7:567e,Queensland,Australia
+310,Data integration,-,89328463798,1970-01-01,769f:4260:abba:22e0:5249:f3e7:194f:a2f5,Queensland,Australia
+311,Data quality assurance,success,89328463799,1970-01-01,758e:aee4:e1fe:da55:bc48:247f:f56c:b10e,Paris,France
+312,Transforming data into a unified format,success,89328463800,1970-01-01,f5bb:b7b6:3001:a81b:d0a6:db2:f717:db94,Paris,France
+313,Optimizing database performance,success,89328463801,1970-01-01,96b5:ee62:bff0:8300:91a2:e35d:b998:3562,Florida,USA
+314,Optimizing database performance,success,89328463802,1970-01-01,d6e:44cf:ee04:efa9:fbf1:25a8:fce7:ba46,New York,USA
+315,Optimizing database performance,success,89328463803,1970-01-01,51f5:b709:48a4:3884:b174:d768:b46d:b8d9,Queensland,Australia
+316,Transforming data into a unified format,failed,89328463804,1970-01-01,ee5b:95ff:2693:52b3:158c:3cea:eab:b80b,New York,USA
+317,Data governance,-,89328463805,1970-01-01,700b:cb02:db46:d889:c4f3:28cf:58a7:c71f,Ontario,Canada
+318,Data integration,-,89328463806,1970-01-01,aa68:29fb:b2a4:b2ea:2176:2e4d:db3a:a277,New York,USA
+319,Transforming data into a unified format,failed,89328463807,1970-01-01,9a44:7d63:c7b4:2ffb:77bb:b4e3:7905:1115,Texas,USA
+320,Extracting data from various sources,success,89328463808,1970-01-01,f422:fdb2:3342:133e:1097:78e0:4eb:856b,Tokyo,Japan
+321,Extracting data from various sources,success,89328463809,1970-01-01,cd0e:d933:bf22:7ccb:dfa0:c6f1:bf58:f4a0,Paris,France
+322,Building data pipelines,success,89328463810,1970-01-01,59bd:2cdc:f558:d8e4:dd58:715a:54c9:6d9f,Texas,USA
+323,Optimizing database performance,-,89328463811,1970-01-01,980e:7903:7791:4ee3:36a8:8042:b388:8bc3,Paris,France
+324,Extracting data from various sources,success,89328463812,1970-01-01,6acd:5e4a:6d5d:aad8:797f:ecff:c5b7:7216,Texas,USA
+325,Optimizing database performance,success,89328463813,1970-01-01,9ce8:894b:7643:6478:bcbc:3ec3:f7a0:9732,Paris,France
+326,Loading data into a data warehouse,success,89328463814,1970-01-01,5089:b56b:3f84:5588:7cf:e843:b381:cb7c,Ontario,Canada
+327,Data quality assurance,-,89328463815,1970-01-01,d007:24b7:f684:a52c:6bfd:262b:7abb:21ed,New York,USA
+328,Building data pipelines,success,89328463816,1970-01-01,7817:e17e:ae56:bf78:564b:cc45:5739:885f,Paris,France
+329,Extracting data from various sources,success,89328463817,1970-01-01,cf63:b20d:42db:e7be:cae1:e4ff:632a:5528,Tokyo,Japan
+330,Optimizing database performance,success,89328463818,1970-01-01,61d3:fdd2:a442:29f7:fd12:1810:f3cd:28c3,California,USA
+331,Data governance,success,89328463819,1970-01-01,d255:a486:e586:e203:8fe2:76ae:f27f:936,New York,USA
+332,Extracting data from various sources,failed,89328463820,1970-01-01,8bc0:8aa9:21f4:1700:fef0:dfc7:4c99:f425,Texas,USA
+333,Extracting data from various sources,success,89328463821,1970-01-01,56d0:77d7:19a9:cfa:b461:b05c:4e85:59b9,Ontario,Canada
+334,Transforming data into a unified format,success,89328463822,1970-01-01,8d64:fe6:c99e:30d0:532d:788a:d7d5:5a4d,Florida,USA
+335,Building data pipelines,-,89328463823,1970-01-01,f489:dd57:cbc:1ce9:b863:311b:1a8b:bf2a,Texas,USA
+336,Building data pipelines,success,89328463824,1970-01-01,1fec:d7c6:75dc:5fde:d03:3b72:41ac:2913,Paris,France
+337,Data governance,success,89328463825,1970-01-01,e857:8b98:6d35:92be:aa75:fa30:15ef:20ff,New York,USA
+338,Loading data into a data warehouse,success,89328463826,1970-01-01,2428:e96f:251c:dfa5:3774:8348:7ed3:f94f,Paris,France
+339,Data quality assurance,success,89328463827,1970-01-01,e79c:d8f:634:4042:b42:eaf9:d2be:1d8,Ontario,Canada
+340,Data integration,success,89328463828,1970-01-01,5818:e59c:b463:2acd:2d6b:59d2:a20:72a1,Tokyo,Japan
+341,Data governance,success,89328463829,1970-01-01,9ae6:558d:f3a6:694f:e94c:3c07:be65:c551,Tokyo,Japan
+342,Transforming data into a unified format,-,89328463830,1970-01-01,1506:def5:7f1:5b4d:92b5:3ecf:751f:dd27,Texas,USA
+343,Data quality assurance,success,89328463831,1970-01-01,a736:988b:72b5:978c:c8e9:8045:93d3:1236,Florida,USA
+344,Data governance,success,89328463832,1970-01-01,2593:1e9f:445e:3e8b:66ed:ea7d:e752:d04,Tokyo,Japan
+345,Optimizing database performance,success,89328463833,1970-01-01,ab78:a3b7:d367:244b:3b13:b440:955d:ce67,Florida,USA
+346,Building data pipelines,failed,89328463834,1970-01-01,7222:589b:40f9:deb7:e43e:7890:af80:b2f2,California,USA
+347,Extracting data from various sources,success,89328463835,1970-01-01,4c8d:e108:60b9:1d08:c4b0:2aa9:b4a7:678b,Ontario,Canada
+348,Designing and implementing data models,success,89328463836,1970-01-01,194:f41b:1a0c:d256:4f64:9fd4:bafb:71e8,California,USA
+349,Data quality assurance,success,89328463837,1970-01-01,b2f:fdce:164b:d422:688c:30b7:aea6:1e21,Florida,USA
+350,Data quality assurance,success,89328463838,1970-01-01,9c68:5ccf:3ce5:7719:efce:9907:b4ce:5f77,Florida,USA
+351,Building data pipelines,-,89328463839,1970-01-01,875e:e184:2156:db4a:3a8:12ad:7f2b:543d,New York,USA
+352,Transforming data into a unified format,success,89328463840,1970-01-01,deef:2d77:b384:32d3:e416:bffc:2fdb:2bb4,Paris,France
+353,Transforming data into a unified format,success,89328463841,1970-01-01,722c:3ed6:6f85:7d9c:78de:5b70:3ca1:1bf8,Tokyo,Japan
+354,Transforming data into a unified format,success,89328463842,1970-01-01,e282:e0b:4e5b:1f41:ee61:937c:1973:11fc,Tokyo,Japan
+355,Loading data into a data warehouse,-,89328463843,1970-01-01,64c9:9e74:f26:4050:78cc:406c:9338:f21e,Ontario,Canada
+356,Data integration,success,89328463844,1970-01-01,403c:d6e:8ddb:8826:8f0c:6cd5:c16:cbb1,Tokyo,Japan
+357,Data integration,success,89328463845,1970-01-01,b395:15eb:d86f:db6:d43:a09:79f:8cbf,Queensland,Australia
+358,Optimizing database performance,success,89328463846,1970-01-01,1287:3314:36c7:de13:c744:d13d:2223:ac5f,Florida,USA
+359,Building data pipelines,success,89328463847,1970-01-01,d684:e146:fc69:4b7b:2c35:a38a:849e:3820,New York,USA
+360,Data quality assurance,failed,89328463848,1970-01-01,649b:1db5:69cd:2ab5:5a9a:89f0:7bbb:5bf3,Paris,France
+361,Data quality assurance,success,89328463849,1970-01-01,eaf1:8d7:1545:982d:7539:116a:d408:21aa,New York,USA
+362,Transforming data into a unified format,success,89328463850,1970-01-01,5c31:fc5:5d0f:d41e:7690:5661:fa1e:74d8,Tokyo,Japan
+363,Loading data into a data warehouse,success,89328463851,1970-01-01,6c8e:4ab5:a703:3652:216e:7ebc:8385:b692,Paris,France
+364,Extracting data from various sources,success,89328463852,1970-01-01,6539:47e8:fb52:8e84:53a4:2cea:45bb:6cfb,Queensland,Australia
+365,Building data pipelines,success,89328463853,1970-01-01,2353:e79e:6ff:84ff:52b6:5b33:29e7:e6c8,Florida,USA
+366,Data integration,-,89328463854,1970-01-01,c0ae:d18:aa6b:2f47:5a14:7ec7:cdeb:536e,Florida,USA
+367,Extracting data from various sources,-,89328463855,1970-01-01,8f23:b114:d734:3a27:6d32:2f02:ca22:dcb3,Paris,France
+368,Data quality assurance,success,89328463856,1970-01-01,34bc:9572:bfbc:1c6f:3c0b:8cae:1b59:5ddf,New York,USA
+369,Building data pipelines,success,89328463857,1970-01-01,ed81:1a3b:3297:4319:d46d:5648:fdbd:d123,Queensland,Australia
+370,Extracting data from various sources,success,89328463858,1970-01-01,7ada:d67c:56ff:48b3:97b8:40b6:1d7b:3890,Queensland,Australia
+371,Loading data into a data warehouse,failed,89328463859,1970-01-01,f607:1894:6ab:c2f7:36ea:5951:e600:bac1,Texas,USA
+372,Data integration,success,89328463860,1970-01-01,64ec:c9ec:2f7a:2870:cd25:4edb:7fe6:bd2,Florida,USA
+373,Data governance,success,89328463861,1970-01-01,35c7:903f:7d66:8ce0:c8da:611d:6e23:8f03,California,USA
+374,Transforming data into a unified format,success,89328463862,1970-01-01,79fd:6a3:ddd4:e607:d407:4fac:8c11:b68f,California,USA
+375,Loading data into a data warehouse,failed,89328463863,1970-01-01,106e:7931:53db:6648:3749:9558:c369:e709,California,USA
+376,Loading data into a data warehouse,failed,89328463864,1970-01-01,a270:485e:eaa4:7ac3:aa87:b27d:1cd8:4111,Ontario,Canada
+377,Data governance,success,89328463865,1970-01-01,bfce:9606:ac0a:b3e4:29bf:a6cc:efbe:4204,Ontario,Canada
+378,Optimizing database performance,failed,89328463866,1970-01-01,a44f:c567:f4d8:3b77:416a:3670:a012:b273,New York,USA
+379,Building data pipelines,success,89328463867,1970-01-01,d3b7:b414:33c8:ac93:e965:88ac:1527:7892,Tokyo,Japan
+380,Transforming data into a unified format,-,89328463868,1970-01-01,e59b:e7fa:d03d:a2db:2aea:db86:baf6:fbe2,Florida,USA
+381,Extracting data from various sources,success,89328463869,1970-01-01,e0f3:f8de:c2e8:707:a180:7735:c6bf:7f9,New York,USA
+382,Extracting data from various sources,failed,89328463870,1970-01-01,72a5:2039:25b6:4d48:9409:adc8:76f2:4e9a,Ontario,Canada
+383,Transforming data into a unified format,success,89328463871,1970-01-01,35aa:216e:3b:6d01:e86b:629c:cb8f:263a,Florida,USA
+384,Building data pipelines,success,89328463872,1970-01-01,5e5d:eef6:bd5a:6426:909a:3d30:1fd4:418e,Florida,USA
+385,Data governance,success,89328463873,1970-01-01,8952:e657:2f77:84bd:2aa6:908b:9c94:1215,California,USA
+386,Optimizing database performance,success,89328463874,1970-01-01,ef00:3004:e171:9bcd:b7cd:e39c:e23e:c1c3,Ontario,Canada
+387,Building data pipelines,success,89328463875,1970-01-01,adfe:5ac3:f152:b786:2424:e67a:4840:275d,Tokyo,Japan
+388,Extracting data from various sources,success,89328463876,1970-01-01,98ff:a9bb:f1f4:305c:8062:8413:2dd0:bf64,California,USA
+389,Extracting data from various sources,failed,89328463877,1970-01-01,6f3e:b427:ed74:90c7:c617:aa9c:819c:98b6,New York,USA
+390,Data governance,-,89328463878,1970-01-01,d268:d9d3:d42b:c504:7f88:c060:50a9:9d31,Ontario,Canada
+391,Data integration,success,89328463879,1970-01-01,4131:8c0c:d6f5:fee9:efe3:e36:35b4:36c5,Tokyo,Japan
+392,Data integration,-,89328463880,1970-01-01,36e6:e173:b047:77c4:f52f:eca3:f441:3363,New York,USA
+393,Data governance,success,89328463881,1970-01-01,123a:56e3:8e46:5abe:4e94:143a:37f:1a39,California,USA
+394,Data integration,-,89328463882,1970-01-01,381a:cb00:a8de:5302:889d:df50:d41e:a0a9,New York,USA
+395,Designing and implementing data models,failed,89328463883,1970-01-01,5b19:fd63:4d81:edce:901c:b3fe:3a0d:6a65,Queensland,Australia
+396,Transforming data into a unified format,success,89328463884,1970-01-01,a689:dabc:f72b:72a8:88d1:a76c:2a50:9536,Texas,USA
+397,Loading data into a data warehouse,success,89328463885,1970-01-01,6bf8:a59e:594c:b16d:a7a0:336e:979a:9bb2,Queensland,Australia
+398,Designing and implementing data models,success,89328463886,1970-01-01,f34a:723f:dc8:f082:143a:8c04:549c:673d,Florida,USA
+399,Building data pipelines,success,89328463887,1970-01-01,fcb7:4ade:d24c:ba95:de65:9b4c:88fc:aa44,Paris,France
+400,Loading data into a data warehouse,success,89328463888,1970-01-01,1a08:2b2d:161b:75e2:36a:d85:830a:2075,Tokyo,Japan
+401,Transforming data into a unified format,success,89328463889,1970-01-01,e22c:5edf:47a7:80c4:13a:e721:d037:5fdf,Tokyo,Japan
+402,Optimizing database performance,success,89328463890,1970-01-01,54a5:e1c2:266a:bea6:9c94:5255:2431:7dff,New York,USA
+403,Data quality assurance,success,89328463891,1970-01-01,ebe2:b42a:a626:37fb:3b4f:569a:3166:ac26,Ontario,Canada
+404,Data quality assurance,-,89328463892,1970-01-01,d864:f3be:e381:64dc:dab5:c188:ae68:c3b4,Florida,USA
+405,Data governance,-,89328463893,1970-01-01,45ae:8338:6476:c2b9:915e:c134:1fb0:2171,Tokyo,Japan
+406,Building data pipelines,success,89328463894,1970-01-01,f676:c8ed:ae6:2a8f:5e51:91ef:f312:69b2,Tokyo,Japan
+407,Extracting data from various sources,success,89328463895,1970-01-01,9765:229e:e45c:dc16:4334:41df:f865:522d,Texas,USA
+408,Building data pipelines,success,89328463896,1970-01-01,d75:6c31:b33c:ceda:d518:f880:9651:b521,Paris,France
+409,Loading data into a data warehouse,success,89328463897,1970-01-01,e865:32cb:54d7:da7e:2cd0:51db:f75c:f557,Queensland,Australia
+410,Extracting data from various sources,success,89328463898,1970-01-01,42aa:8a52:4c52:873c:dcc3:1240:e049:dbb9,Texas,USA
+411,Designing and implementing data models,success,89328463899,1970-01-01,46c4:3b21:2d27:59e4:44e2:b262:6a3a:1d9a,Florida,USA
+412,Extracting data from various sources,-,89328463900,1970-01-01,3375:4ae1:e487:135c:be8d:b549:277:a1f6,Texas,USA
+413,Extracting data from various sources,success,89328463901,1970-01-01,c1de:3e2e:7495:bf23:bc8e:9a8e:2f87:6280,Florida,USA
+414,Data integration,success,89328463902,1970-01-01,6ef8:2699:bde8:24b5:4693:f54:f667:1015,California,USA
+415,Loading data into a data warehouse,success,89328463903,1970-01-01,c7f0:bb6f:5d7:1908:3c8b:7d0d:2ec0:2f9d,New York,USA
+416,Building data pipelines,success,89328463904,1970-01-01,6b6b:3139:3d01:b566:f47e:4d93:d4f:6b41,Tokyo,Japan
+417,Extracting data from various sources,success,89328463905,1970-01-01,e659:d778:c021:3fcd:d347:6099:52:e669,Ontario,Canada
+418,Data governance,success,89328463906,1970-01-01,e9e4:f46e:d316:149a:e9b5:2415:87b9:a9,Paris,France
+419,Building data pipelines,failed,89328463907,1970-01-01,43ea:deaf:e971:f3a8:e413:c215:c2ca:3782,Paris,France
+420,Loading data into a data warehouse,success,89328463908,1970-01-01,6630:3870:bd2a:458c:cea8:1bfa:6f6c:eb7f,Queensland,Australia
+421,Transforming data into a unified format,success,89328463909,1970-01-01,cce3:4e87:8fc5:840c:1c06:fb34:17a3:8de1,California,USA
+422,Data governance,success,89328463910,1970-01-01,6dae:2cba:6108:e17c:7930:9500:a0f5:58cb,Texas,USA
+423,Extracting data from various sources,-,89328463911,1970-01-01,a7d7:da47:ca82:7455:6371:ef69:2a7d:7ea3,Florida,USA
+424,Data integration,-,89328463912,1970-01-01,73c8:7d71:6011:277a:fe63:9660:f5f8:1b63,Texas,USA
+425,Loading data into a data warehouse,success,89328463913,1970-01-01,e1f9:1274:f33c:524a:637a:2828:eae2:510a,Florida,USA
+426,Data governance,success,89328463914,1970-01-01,6463:ed39:fe:da40:2382:8b22:ce9d:78f8,New York,USA
+427,Data quality assurance,success,89328463915,1970-01-01,b61e:5c4c:3dd3:4860:e0d8:6216:f3c5:ece9,Texas,USA
+428,Optimizing database performance,success,89328463916,1970-01-01,dbc7:44b:307b:4642:650e:e5b:7056:391f,Texas,USA
+429,Loading data into a data warehouse,success,89328463917,1970-01-01,3596:f8e9:66c4:d8a2:79a3:4fd0:7a7e:4103,Texas,USA
+430,Extracting data from various sources,failed,89328463918,1970-01-01,cec3:913c:a3c:8a52:8273:eb92:d143:8eff,Florida,USA
+431,Extracting data from various sources,-,89328463919,1970-01-01,91a3:47ba:94ae:ed58:1bed:560e:6ce9:d651,California,USA
+432,Data integration,success,89328463920,1970-01-01,1417:74f3:a0ef:1f9c:83c4:7022:914e:2ccb,Queensland,Australia
+433,Loading data into a data warehouse,success,89328463921,1970-01-01,95c3:e952:55ab:93ea:adee:f0d3:49a9:f099,Tokyo,Japan
+434,Extracting data from various sources,success,89328463922,1970-01-01,b49b:144e:a0cb:1174:6778:42ab:bd05:e700,Paris,France
+435,Loading data into a data warehouse,success,89328463923,1970-01-01,ef76:b5c9:14b6:b868:a4af:e285:6ad1:2f77,Florida,USA
+436,Loading data into a data warehouse,success,89328463924,1970-01-01,8f6b:9e10:67b2:e604:77ff:cd4c:edeb:7ab6,New York,USA
+437,Data quality assurance,success,89328463925,1970-01-01,f5ae:5ca8:a9dc:b1dc:4c3a:204:212:4817,Ontario,Canada
+438,Extracting data from various sources,success,89328463926,1970-01-01,1b90:50da:8bf6:791e:994a:8aad:5adc:eb90,Florida,USA
+439,Data integration,success,89328463927,1970-01-01,94c6:b1e7:f243:eaeb:27d8:acd8:944c:762,Tokyo,Japan
+440,Data governance,success,89328463928,1970-01-01,5ed6:4c38:1f97:530b:7bbc:4174:4d11:eea7,California,USA
+441,Optimizing database performance,success,89328463929,1970-01-01,7823:aef3:3005:7ec0:131c:e948:19bc:3068,California,USA
+442,Data governance,success,89328463930,1970-01-01,232f:c606:3b4c:b79b:b4fb:7b74:5db5:9dca,Tokyo,Japan
+443,Data governance,success,89328463931,1970-01-01,aa1:ccee:818e:b2d3:614b:e3a2:29c8:35f7,Florida,USA
+444,Data quality assurance,-,89328463932,1970-01-01,f08c:19e:dd58:1710:b0f4:3308:382a:2d82,California,USA
+445,Data quality assurance,success,89328463933,1970-01-01,58a8:fd6c:7b34:c2ec:b01:b1a3:d433:e20a,Tokyo,Japan
+446,Data integration,success,89328463934,1970-01-01,5cf9:fcd3:e8dc:ab79:3418:9739:750f:52d1,Ontario,Canada
+447,Data governance,failed,89328463935,1970-01-01,eb84:c09b:17aa:d133:e980:3905:fb14:675f,Paris,France
+448,Data integration,success,89328463936,1970-01-01,3ba6:9cca:a6c8:d441:4106:f215:dde:66e3,Queensland,Australia
+449,Data integration,success,89328463937,1970-01-01,57d4:9623:7c06:c76f:2cfe:1d52:f220:6983,Ontario,Canada
+450,Loading data into a data warehouse,success,89328463938,1970-01-01,9ed6:4a4b:f142:1941:e6f5:bedf:f239:1d1b,Tokyo,Japan
+451,Designing and implementing data models,success,89328463939,1970-01-01,9ba0:b0cc:244c:191a:a5d2:5c39:670b:f44b,New York,USA
+452,Building data pipelines,success,89328463940,1970-01-01,3357:7c2a:34e1:af5a:9535:3989:888:47fe,Queensland,Australia
+453,Data quality assurance,success,89328463941,1970-01-01,f8ae:d5ae:e7a0:9efe:68b1:20a2:198c:f851,Tokyo,Japan
+454,Extracting data from various sources,-,89328463942,1970-01-01,118f:8f32:cb81:d70a:d5c6:bc63:6cb7:b2d8,New York,USA
+455,Designing and implementing data models,success,89328463943,1970-01-01,224:22b9:18b2:4006:ac6:2e7d:170:6f6,New York,USA
+456,Loading data into a data warehouse,success,89328463944,1970-01-01,5ce5:30f5:bfc:d019:fd69:7211:4380:699a,Tokyo,Japan
+457,Data governance,success,89328463945,1970-01-01,280b:f9cc:7143:6576:e5be:b6e:e186:b18d,Ontario,Canada
+458,Transforming data into a unified format,-,89328463946,1970-01-01,db6:adba:f29f:dc03:b5a9:7bd3:88b9:2e39,Florida,USA
+459,Data integration,success,89328463947,1970-01-01,74a5:be10:8eaf:59d9:43d3:4d05:8568:faac,California,USA
+460,Optimizing database performance,failed,89328463948,1970-01-01,137a:1249:c58f:d3db:8b95:4f50:caaa:c0fc,New York,USA
+461,Optimizing database performance,success,89328463949,1970-01-01,806f:1a46:711b:9caf:3ffc:43a0:bfb2:dda9,Texas,USA
+462,Extracting data from various sources,success,89328463950,1970-01-01,5add:97ec:a81e:94a9:b790:b87a:ed3d:6c79,Ontario,Canada
+463,Data integration,-,89328463951,1970-01-01,ed6a:f0d7:753d:85b4:6c12:6d4f:1140:f1cd,Queensland,Australia
+464,Loading data into a data warehouse,success,89328463952,1970-01-01,630e:c8c1:b990:f831:d8b2:7252:60c4:df45,Florida,USA
+465,Extracting data from various sources,success,89328463953,1970-01-01,96b9:d0c5:df87:180b:de07:1e7b:c7d4:e561,Florida,USA
+466,Extracting data from various sources,success,89328463954,1970-01-01,b22a:67fa:4e06:ed3b:db82:4151:795:8e42,Queensland,Australia
+467,Data quality assurance,success,89328463955,1970-01-01,8bca:437a:c201:28ef:64a8:8882:5af6:eb3d,Ontario,Canada
+468,Optimizing database performance,success,89328463956,1970-01-01,76dd:5c8d:471:b0c1:5200:238a:1818:4be0,Paris,France
+469,Transforming data into a unified format,failed,89328463957,1970-01-01,bcff:c5b8:4968:8658:ba61:9bf9:d626:f293,Queensland,Australia
+470,Optimizing database performance,failed,89328463958,1970-01-01,7f01:76be:8028:db50:acba:42b0:e0be:7e69,Florida,USA
+471,Optimizing database performance,success,89328463959,1970-01-01,48e2:cdf7:b425:400a:a8db:2170:1dbe:66bd,Queensland,Australia
+472,Designing and implementing data models,-,89328463960,1970-01-01,e344:f190:c9d5:c8d8:a4d7:ca98:da02:36f5,Paris,France
+473,Data integration,success,89328463961,1970-01-01,4cc9:5c79:d518:d029:c220:c1ca:bba4:8fb9,Ontario,Canada
+474,Extracting data from various sources,success,89328463962,1970-01-01,7cba:d6c1:6369:2263:e5f7:7fa0:c35c:5903,Texas,USA
+475,Extracting data from various sources,-,89328463963,1970-01-01,4dd7:c061:b38a:194d:2501:19ad:de1d:9822,Tokyo,Japan
+476,Data quality assurance,success,89328463964,1970-01-01,8448:da1f:b5f4:4fa9:77ac:9972:922:d156,Texas,USA
+477,Extracting data from various sources,success,89328463965,1970-01-01,fb5c:f0f7:a279:633:aa96:d5a3:986b:4cf6,New York,USA
+478,Designing and implementing data models,success,89328463966,1970-01-01,2199:119f:7290:3ed:9712:83aa:c7bb:4905,Paris,France
+479,Extracting data from various sources,success,89328463967,1970-01-01,d79f:e960:b7da:56bc:7314:27ba:ea3f:1c84,Ontario,Canada
+480,Extracting data from various sources,success,89328463968,1970-01-01,31bf:6456:df5c:97d8:fded:c334:e1be:2d53,Tokyo,Japan
+481,Extracting data from various sources,success,89328463969,1970-01-01,8675:1aa7:4ba9:2509:ac7a:58f5:f30b:5d5c,Queensland,Australia
+482,Data governance,success,89328463970,1970-01-01,7a62:4579:9d33:e7c4:3ff8:4cf3:af97:51b1,Paris,France
+483,Designing and implementing data models,-,89328463971,1970-01-01,fa7a:aa22:93c4:2903:a055:cd8f:e583:c48c,Ontario,Canada
+484,Data quality assurance,success,89328463972,1970-01-01,3d1b:e4bc:b33a:2196:c2cf:353c:5d96:ff8e,New York,USA
+485,Loading data into a data warehouse,success,89328463973,1970-01-01,d3d8:f3c1:fd66:a8e0:8519:b4f0:4d2c:edbd,California,USA
+486,Data integration,success,89328463974,1970-01-01,10d:6bdd:a827:95b8:12ab:7d7b:4c8c:eb17,New York,USA
+487,Building data pipelines,-,89328463975,1970-01-01,c346:c439:e2cc:ce15:1136:a8c3:5c38:6aba,Paris,France
+488,Optimizing database performance,success,89328463976,1970-01-01,670b:ba52:4381:57d7:71bb:b847:1435:ebf6,Ontario,Canada
+489,Optimizing database performance,-,89328463977,1970-01-01,e744:c09f:1b0e:3e25:db0e:1918:1b19:5fd2,Queensland,Australia
+490,Extracting data from various sources,success,89328463978,1970-01-01,4126:eb16:3a:755e:88b0:82dc:4f29:5691,California,USA
+491,Building data pipelines,success,89328463979,1970-01-01,9be0:8663:5c0f:6e1:c2b3:9bbe:abb2:7acf,Paris,France
+492,Data governance,success,89328463980,1970-01-01,e8f5:331b:cf6b:c88b:b134:ce79:4aa7:7e45,Queensland,Australia
+493,Building data pipelines,-,89328463981,1970-01-01,d25:7c2c:4f7c:8288:1dff:c66b:8d79:ebfa,Florida,USA
+494,Optimizing database performance,success,89328463982,1970-01-01,5054:5c8:2d41:5319:7bb6:b262:dfab:5ee,New York,USA
+495,Data quality assurance,success,89328463983,1970-01-01,9e9e:ae9d:2f9b:e8e8:8966:9da5:c34e:d1a8,Florida,USA
+496,Extracting data from various sources,success,89328463984,1970-01-01,ef7:9195:d034:8144:72d2:889a:ecb6:db7c,Tokyo,Japan
+497,Optimizing database performance,success,89328463985,1970-01-01,fbef:7526:9fb1:4369:f8ed:7e73:860d:a22f,Ontario,Canada
+498,Loading data into a data warehouse,success,89328463986,1970-01-01,428e:7de5:e9b7:1457:8610:da64:af3:fc92,Queensland,Australia
+499,Data governance,success,89328463987,1970-01-01,2848:e65:de83:104a:e93b:1e48:f49a:81de,Paris,France
+500,Building data pipelines,success,89328463988,1970-01-01,f34:3f27:d1de:a085:c56a:2e43:30e5:b56a,Texas,USA
+501,Extracting data from various sources,success,89328463989,1970-01-01,f3ed:7dd8:2b57:3478:15a2:d9f6:64af:9baf,Florida,USA
+502,Data integration,success,89328463990,1970-01-01,82e8:fd7:eecc:469a:2bfd:5d2:2b77:55ec,Texas,USA
+503,Transforming data into a unified format,-,89328463991,1970-01-01,4e91:12eb:d90a:4513:71fc:69fb:e256:e72c,Florida,USA
+504,Data integration,failed,89328463992,1970-01-01,b221:3f6f:bc9f:6f02:9069:9589:8201:1229,California,USA
+505,Data quality assurance,failed,89328463993,1970-01-01,e142:264e:69c2:d2c0:1c6a:572c:c3cb:ff07,California,USA
+506,Loading data into a data warehouse,success,89328463994,1970-01-01,fbcd:9809:542d:2e2:b47d:2967:97b0:3e7a,Queensland,Australia
+507,Optimizing database performance,success,89328463995,1970-01-01,ae4:baa1:8275:be81:95b6:b33f:f67a:426a,Florida,USA
+508,Data governance,success,89328463996,1970-01-01,c1b7:784a:453d:8adf:1f9b:6e1e:aa79:efa4,Paris,France
+509,Designing and implementing data models,success,89328463997,1970-01-01,5e6d:fc5a:e276:ac2c:1ba:f243:49fa:fbe6,New York,USA
+510,Data governance,success,89328463998,1970-01-01,d1f:5d01:612b:4252:2705:7287:ae88:1516,Florida,USA
+511,Loading data into a data warehouse,success,89328463999,1970-01-01,5535:64ae:928d:f067:2edd:a308:853c:14d,Texas,USA
+512,Data integration,success,89328464000,1970-01-01,2fc1:eb:65ad:cb1e:a27e:84ea:eeff:137,Tokyo,Japan
+513,Building data pipelines,success,89328464001,1970-01-01,db91:a376:132f:eeec:648b:5447:1705:adb6,Ontario,Canada
+514,Loading data into a data warehouse,success,89328464002,1970-01-01,4d9:c803:2e9d:10e6:6fa6:d288:5819:d7a2,California,USA
+515,Transforming data into a unified format,success,89328464003,1970-01-01,9918:f3ff:bc4b:9370:37a6:ff8f:fabb:9bd4,Texas,USA
+516,Data governance,success,89328464004,1970-01-01,697a:ffb1:923:61df:c619:f36c:77c2:ab25,New York,USA
+517,Transforming data into a unified format,success,89328464005,1970-01-01,e281:721:b725:8a00:c441:fdd6:efcf:c4b5,New York,USA
+518,Data quality assurance,success,89328464006,1970-01-01,6652:408c:adaf:fa:ae3f:3d4d:aa6f:6be5,Texas,USA
+519,Extracting data from various sources,success,89328464007,1970-01-01,8c41:e91d:f9c4:cfd7:3e96:32ab:dd57:dc47,Florida,USA
+520,Data integration,success,89328464008,1970-01-01,37b8:692c:289d:b6b5:b597:c530:d909:26cd,California,USA
+521,Designing and implementing data models,success,89328464009,1970-01-01,e112:3d26:712c:a929:e43d:5844:4ab4:6dc7,Tokyo,Japan
+522,Extracting data from various sources,success,89328464010,1970-01-01,77b4:a6ea:7309:ae32:1c31:b916:8c3b:2458,New York,USA
+523,Loading data into a data warehouse,success,89328464011,1970-01-01,77ea:1be:e40c:af91:7cc3:9902:77c9:3210,Ontario,Canada
+524,Optimizing database performance,-,89328464012,1970-01-01,a0c5:dad3:d436:b9b6:6e48:ddef:ccbc:9979,Florida,USA
+525,Loading data into a data warehouse,-,89328464013,1970-01-01,463f:a63d:8a31:a404:bde:e4a9:96ec:4280,Tokyo,Japan
+526,Designing and implementing data models,success,89328464014,1970-01-01,9163:82c8:791:b503:2911:7586:2813:7eef,California,USA
+527,Data integration,success,89328464015,1970-01-01,e57e:4a87:9411:a535:9171:820f:9809:f698,California,USA
+528,Loading data into a data warehouse,success,89328464016,1970-01-01,c294:f501:7f74:e7e1:54bd:3ad5:518c:ae4e,Texas,USA
+529,Data quality assurance,success,89328464017,1970-01-01,3bf8:4f5:6970:32e3:25c4:474e:b228:1c47,New York,USA
+530,Extracting data from various sources,success,89328464018,1970-01-01,a3c5:6f7f:453f:7c5b:a65f:89cf:f4b0:d3fc,Queensland,Australia
+531,Data integration,success,89328464019,1970-01-01,3788:4f5b:f329:e305:eb5e:3eb1:baf1:80bb,Ontario,Canada
+532,Extracting data from various sources,success,89328464020,1970-01-01,a1d8:48d2:6d93:1d97:ec7d:3410:b48:175e,New York,USA
+533,Building data pipelines,success,89328464021,1970-01-01,99d:94cf:e9d:a147:fa09:b885:f53b:fc4d,California,USA
+534,Building data pipelines,success,89328464022,1970-01-01,cdc5:1089:4fc2:eac2:f9a5:3e5b:3711:4c0a,Ontario,Canada
+535,Designing and implementing data models,success,89328464023,1970-01-01,1701:a5a:d08f:fddf:3e86:aeda:82f9:e7a8,Paris,France
+536,Transforming data into a unified format,success,89328464024,1970-01-01,b68b:1c4b:986f:ec56:8579:6233:f5ee:195f,Florida,USA
+537,Data governance,success,89328464025,1970-01-01,38e:1dab:3ae7:db26:1f58:8d6a:74ec:59e,Florida,USA
+538,Designing and implementing data models,success,89328464026,1970-01-01,fbd4:ca67:e8bf:5ba2:23d4:57c:aea0:33e7,Tokyo,Japan
+539,Data quality assurance,success,89328464027,1970-01-01,2427:b0ef:1d46:30ee:b516:3dc3:a6cb:f014,Queensland,Australia
+540,Data integration,success,89328464028,1970-01-01,d13b:e940:8c2c:165a:1427:4f07:8020:dbca,Texas,USA
+541,Extracting data from various sources,success,89328464029,1970-01-01,5c00:3145:ef17:f9f:4794:27b3:2783:7b7d,New York,USA
+542,Data quality assurance,success,89328464030,1970-01-01,9beb:8146:a151:cd5b:1211:3cd8:3cdb:a146,Tokyo,Japan
+543,Loading data into a data warehouse,success,89328464031,1970-01-01,4f49:b860:70c6:b24:21e0:27eb:a7a4:7b7a,Florida,USA
+544,Building data pipelines,failed,89328464032,1970-01-01,cbf3:4bc:6b6f:f877:e4d7:88dc:28c5:ec68,Paris,France
+545,Data integration,-,89328464033,1970-01-01,a372:367d:9f29:b949:b206:451c:98c:7fd,New York,USA
+546,Extracting data from various sources,success,89328464034,1970-01-01,e743:b05a:4313:4c99:d2a8:3ebf:2b5b:1f0d,Tokyo,Japan
+547,Extracting data from various sources,success,89328464035,1970-01-01,2a8:bc9b:f338:ee5b:39b3:f1f4:ad45:f573,Texas,USA
+548,Data governance,success,89328464036,1970-01-01,97c2:3b3c:c8dd:8431:29a9:ec1c:4d00:2d96,Ontario,Canada
+549,Transforming data into a unified format,success,89328464037,1970-01-01,93ee:650e:6bd:764:d23c:23ef:df00:5ea7,Paris,France
+550,Optimizing database performance,-,89328464038,1970-01-01,8163:5e29:aeae:b5d3:50e:20e4:5063:b56e,Texas,USA
+551,Extracting data from various sources,failed,89328464039,1970-01-01,e248:3652:41c6:fa44:dfeb:6746:11b5:2f31,Florida,USA
+552,Transforming data into a unified format,success,89328464040,1970-01-01,a91e:ec00:9c4e:ba2:9b8f:b7ac:7cb8:d8ee,Florida,USA
+553,Transforming data into a unified format,success,89328464041,1970-01-01,4c5d:4fab:dca2:b63f:488:c316:30bf:d270,Texas,USA
+554,Transforming data into a unified format,success,89328464042,1970-01-01,4337:f103:738b:68b6:a45b:2008:8bf1:8e23,Tokyo,Japan
+555,Extracting data from various sources,success,89328464043,1970-01-01,263c:bd22:be8a:4331:8fa8:3190:1c83:332a,New York,USA
+556,Building data pipelines,success,89328464044,1970-01-01,f7f:cd59:c6a6:d747:c64d:f7aa:bd23:e76b,California,USA
+557,Transforming data into a unified format,success,89328464045,1970-01-01,ce76:ba77:d124:2ec1:e712:f9a9:2eda:3819,Florida,USA
+558,Building data pipelines,success,89328464046,1970-01-01,8098:d5e8:b3ce:84c1:3a3c:b150:9c0f:9c45,Tokyo,Japan
+559,Data integration,success,89328464047,1970-01-01,6755:38e5:bdcc:304d:cf57:1ff8:2eac:683e,Queensland,Australia
+560,Data integration,success,89328464048,1970-01-01,7724:503a:fe9f:7a9c:3fe6:aba2:715d:6a25,Ontario,Canada
+561,Transforming data into a unified format,success,89328464049,1970-01-01,2f01:bd60:d346:88cc:b8cd:5c22:1500:560c,Ontario,Canada
+562,Extracting data from various sources,success,89328464050,1970-01-01,4a41:617e:f83:563f:8b78:a2a4:333:98c6,Ontario,Canada
+563,Optimizing database performance,success,89328464051,1970-01-01,8f65:a82c:c26f:2b65:ea26:88ab:6dc4:e47c,Paris,France
+564,Loading data into a data warehouse,success,89328464052,1970-01-01,7a76:7dd3:cf4b:bd21:939b:335a:ea11:6b8a,New York,USA
+565,Extracting data from various sources,success,89328464053,1970-01-01,f676:9758:2143:a021:a72b:a669:6968:d603,New York,USA
+566,Extracting data from various sources,success,89328464054,1970-01-01,546c:bf09:77f2:9f72:7953:509d:4ea:10fc,Ontario,Canada
+567,Data governance,success,89328464055,1970-01-01,d422:f71a:6aa:7aac:5ade:46b1:86bc:21dc,New York,USA
+568,Transforming data into a unified format,failed,89328464056,1970-01-01,8b2f:ab60:6fc1:f1fc:29c5:6194:d3ee:2dc7,Queensland,Australia
+569,Transforming data into a unified format,-,89328464057,1970-01-01,951d:f4e5:f32e:2a7c:8ec:301:f862:e75f,Queensland,Australia
+570,Optimizing database performance,success,89328464058,1970-01-01,501d:3d8e:b1d0:f57d:e575:951f:39c:5d5e,Ontario,Canada
+571,Data quality assurance,success,89328464059,1970-01-01,9649:2734:8cea:80b9:31aa:9b08:fab5:a890,Paris,France
+572,Loading data into a data warehouse,success,89328464060,1970-01-01,33ac:18a8:d325:1fde:ddde:21d3:1372:80b0,New York,USA
+573,Data integration,failed,89328464061,1970-01-01,a628:e4a3:1307:9e3c:7d07:f677:60a:c556,Paris,France
+574,Data governance,success,89328464062,1970-01-01,cefe:465b:f07d:a15a:5ddb:c333:c250:11fa,Texas,USA
+575,Data quality assurance,success,89328464063,1970-01-01,b271:5bc0:c457:e409:3d47:537c:1343:f9d6,New York,USA
+576,Extracting data from various sources,success,89328464064,1970-01-01,28a5:c1c8:6d37:649b:c18c:5eba:1bde:bcf6,New York,USA
+577,Building data pipelines,success,89328464065,1970-01-01,78b9:c130:571d:4b03:bfba:3d2a:37f1:9883,Paris,France
+578,Designing and implementing data models,success,89328464066,1970-01-01,8d4c:2f50:787d:ec1c:7ef2:5339:8680:a3a3,California,USA
+579,Building data pipelines,success,89328464067,1970-01-01,e6b0:6bca:223d:36ef:3a15:63b7:b75c:51c5,Paris,France
+580,Extracting data from various sources,-,89328464068,1970-01-01,7c64:7a40:befc:96d4:d542:da34:9959:a864,California,USA
+581,Data integration,success,89328464069,1970-01-01,eeed:fdd6:3b0e:712f:7fbd:9e82:2029:233c,Queensland,Australia
+582,Transforming data into a unified format,-,89328464070,1970-01-01,499e:76a8:b1f8:4409:ad16:f5fa:b602:84d5,Texas,USA
+583,Loading data into a data warehouse,success,89328464071,1970-01-01,ebd3:dcce:a153:f016:b966:87b2:857a:f7fa,Queensland,Australia
+584,Data integration,success,89328464072,1970-01-01,94b:86b3:9017:7d0f:f758:53a2:6473:a4ed,California,USA
+585,Building data pipelines,success,89328464073,1970-01-01,4498:7bce:41ee:447c:4020:d284:7aae:6756,Tokyo,Japan
+586,Data integration,success,89328464074,1970-01-01,b4e7:a3d5:b77:71cb:7080:d6d:5cd3:cad6,Florida,USA
+587,Loading data into a data warehouse,success,89328464075,1970-01-01,2087:b3b0:2846:564c:4c7f:f228:e242:4bd8,Florida,USA
+588,Extracting data from various sources,success,89328464076,1970-01-01,e7e3:4e74:ac3a:3d19:2393:13af:3817:fb76,Ontario,Canada
+589,Designing and implementing data models,failed,89328464077,1970-01-01,5697:1424:f10e:3bd3:7d6a:c222:ae6:c90e,Ontario,Canada
+590,Building data pipelines,success,89328464078,1970-01-01,5fa8:f5d3:dd41:9832:83cd:1146:d6d9:6ade,Texas,USA
+591,Data quality assurance,success,89328464079,1970-01-01,81a8:ae78:a8df:5f27:b7da:46d0:2403:b3a7,Florida,USA
+592,Extracting data from various sources,-,89328464080,1970-01-01,e3e3:c4d0:b320:71a2:e72b:3922:cf74:2e53,Queensland,Australia
+593,Extracting data from various sources,failed,89328464081,1970-01-01,ee6a:e8d9:7b1a:6461:71f5:1680:7871:8ab7,Tokyo,Japan
+594,Designing and implementing data models,success,89328464082,1970-01-01,6463:aa3d:669d:3e69:618:6995:cabf:78aa,Tokyo,Japan
+595,Optimizing database performance,success,89328464083,1970-01-01,7a82:1d49:ae63:a463:2f56:1a79:7f99:283,Queensland,Australia
+596,Extracting data from various sources,success,89328464084,1970-01-01,b77d:283:6e7b:1a9b:16f1:9aa2:b981:a9fa,Paris,France
+597,Transforming data into a unified format,failed,89328464085,1970-01-01,5b87:2470:d4c9:1ad7:7c2e:585a:19a6:bff5,Florida,USA
+598,Designing and implementing data models,success,89328464086,1970-01-01,5eaf:9fc8:9f0:40d9:435b:86db:16e4:1923,Tokyo,Japan
+599,Data governance,success,89328464087,1970-01-01,df:b529:1e4f:997a:7893:59ab:d78:2cfd,Tokyo,Japan
+600,Data integration,success,89328464088,1970-01-01,1fd9:1c6:4e2f:23b2:d776:f210:f6be:5fa6,Texas,USA
+601,Optimizing database performance,-,89328464089,1970-01-01,5d5e:703:42ef:41e6:dea3:e762:6fe1:4ccc,Queensland,Australia
+602,Loading data into a data warehouse,success,89328464090,1970-01-01,d92e:ed57:8cee:c23f:fc3c:e5c3:7674:3f5c,Florida,USA
+603,Loading data into a data warehouse,success,89328464091,1970-01-01,e686:2c78:6f35:6c9c:7924:cefd:e390:c2f0,Queensland,Australia
+604,Optimizing database performance,success,89328464092,1970-01-01,3964:2d17:6882:ff9d:b5d7:736e:cfc8:e40c,California,USA
+605,Data quality assurance,success,89328464093,1970-01-01,b737:b008:73a2:e9ce:16c:8b30:a4c1:a6e1,Florida,USA
+606,Optimizing database performance,failed,89328464094,1970-01-01,b71:ef09:22b4:3486:120a:bb18:49d0:377a,California,USA
+607,Loading data into a data warehouse,success,89328464095,1970-01-01,6915:292b:4e62:1aa5:88d3:959e:149:6bd,Texas,USA
+608,Extracting data from various sources,success,89328464096,1970-01-01,708a:b84:2787:c8c:ba93:8be8:a4ce:e41e,New York,USA
+609,Extracting data from various sources,success,89328464097,1970-01-01,d68e:daa6:344a:34b7:7665:a6b7:986f:5275,Paris,France
+610,Extracting data from various sources,success,89328464098,1970-01-01,26a1:4028:16c:409:67db:8639:b54b:e18f,Texas,USA
+611,Loading data into a data warehouse,success,89328464099,1970-01-01,f05e:b8aa:8781:b14e:cbe0:9d92:b66b:243a,New York,USA
+612,Data governance,success,89328464100,1970-01-01,643a:1a62:c907:30f0:c0ff:86b6:30aa:f388,Tokyo,Japan
+613,Data governance,success,89328464101,1970-01-01,fef1:8f16:97c7:a1f1:1706:81c6:5956:6fc0,Ontario,Canada
+614,Extracting data from various sources,success,89328464102,1970-01-01,3d55:349c:704c:1a94:bd55:86f:1cce:bd04,Texas,USA
+615,Transforming data into a unified format,success,89328464103,1970-01-01,57a7:eebd:61d1:4250:7c2:3638:db4c:5eac,Paris,France
+616,Extracting data from various sources,success,89328464104,1970-01-01,504b:82c8:c416:e135:e2a7:7bae:889e:fd0d,California,USA
+617,Building data pipelines,success,89328464105,1970-01-01,9780:2bdd:3c2d:bd38:de78:e721:a3c:1ac7,Queensland,Australia
+618,Data integration,success,89328464106,1970-01-01,9e01:d7a:12fb:1033:a9b1:14d6:9510:cb7f,Queensland,Australia
+619,Extracting data from various sources,success,89328464107,1970-01-01,7f3:8ef9:4f70:922e:ce18:76b8:2f1b:c87d,New York,USA
+620,Data quality assurance,success,89328464108,1970-01-01,abce:9d90:f4e4:b022:a774:39b3:ee7:e8f1,Tokyo,Japan
+621,Data quality assurance,success,89328464109,1970-01-01,405c:595c:eb4:f15d:db67:1755:ff66:fd05,Paris,France
+622,Transforming data into a unified format,success,89328464110,1970-01-01,7496:c9a9:8620:509b:6fe4:3cad:9949:700e,Ontario,Canada
+623,Data integration,success,89328464111,1970-01-01,724:546a:650a:b407:d703:7dc5:43a5:9600,Ontario,Canada
+624,Extracting data from various sources,success,89328464112,1970-01-01,bfb:fdf8:c902:f51d:e706:43bc:674d:6db7,Florida,USA
+625,Designing and implementing data models,failed,89328464113,1970-01-01,96e2:d435:8996:fdf5:b867:61d:5612:1004,Tokyo,Japan
+626,Designing and implementing data models,success,89328464114,1970-01-01,a14e:f961:506f:194d:5b69:1241:f893:f723,California,USA
+627,Extracting data from various sources,success,89328464115,1970-01-01,6929:e8f8:d66a:ec24:f76b:954:6879:d6b,Paris,France
+628,Loading data into a data warehouse,success,89328464116,1970-01-01,de43:9e7c:9e51:65cd:5a6:635b:e9b0:513f,Queensland,Australia
+629,Designing and implementing data models,success,89328464117,1970-01-01,b5e4:a5e8:9ea4:285e:896f:df69:92a6:a74b,Paris,France
+630,Designing and implementing data models,success,89328464118,1970-01-01,8080:1aa2:8e5e:9b2b:7480:299b:7d59:d5a7,California,USA
+631,Building data pipelines,-,89328464119,1970-01-01,45b:6585:3565:3a10:901e:6018:4cd5:2ee9,Paris,France
+632,Data governance,-,89328464120,1970-01-01,ecf4:bd1e:2e8c:dcaa:cd4:2d6d:3d04:f757,New York,USA
+633,Transforming data into a unified format,success,89328464121,1970-01-01,8fce:4100:3352:2c21:a959:e01a:4b59:d64e,Florida,USA
+634,Data governance,success,89328464122,1970-01-01,fb74:a22a:2725:7705:f18:6a03:783e:3791,Tokyo,Japan
+635,Extracting data from various sources,success,89328464123,1970-01-01,ef22:98fa:2964:a8d7:16bb:60df:b33b:7314,Florida,USA
+636,Extracting data from various sources,failed,89328464124,1970-01-01,f1b6:5e4c:fb86:1d9f:7ce5:40ff:2ebc:7723,California,USA
+637,Optimizing database performance,success,89328464125,1970-01-01,83ee:d163:18f9:a1ad:6ce8:f16c:ed90:3f36,New York,USA
+638,Extracting data from various sources,success,89328464126,1970-01-01,c709:2ce9:8514:3eb2:a775:5679:29ca:3de2,Florida,USA
+639,Building data pipelines,failed,89328464127,1970-01-01,6d5b:7297:303d:f926:3993:4980:6643:dcc8,California,USA
+640,Transforming data into a unified format,success,89328464128,1970-01-01,5a13:fec0:e08d:f375:f45f:13c7:4639:1a78,New York,USA
+641,Data integration,success,89328464129,1970-01-01,f872:58b7:5c3f:35b3:2075:79f8:5bd6:b276,Tokyo,Japan
+642,Data quality assurance,failed,89328464130,1970-01-01,855f:feb9:f90c:d173:a126:111e:8114:d87c,New York,USA
+643,Data governance,success,89328464131,1970-01-01,cac3:f063:63ec:6ce0:9f87:a08f:b42e:ce5b,Texas,USA
+644,Data integration,success,89328464132,1970-01-01,5654:5aa0:fdb5:721c:4181:c765:6372:6f5d,Tokyo,Japan
+645,Transforming data into a unified format,success,89328464133,1970-01-01,5300:c9a4:28cf:d65:3ad2:ff8d:f43:3cc,California,USA
+646,Extracting data from various sources,failed,89328464134,1970-01-01,2ef:4767:4209:c79d:f96f:fc4b:6e96:75ec,New York,USA
+647,Designing and implementing data models,success,89328464135,1970-01-01,e550:5cd6:ef5d:c00b:d3d8:7f6c:f1a1:1341,New York,USA
+648,Designing and implementing data models,success,89328464136,1970-01-01,fac8:586e:a423:e42e:e612:4615:e56e:a92c,California,USA
+649,Data governance,success,89328464137,1970-01-01,5b3d:126:6f79:218:2e6f:a0ba:d1c3:de9,Tokyo,Japan
+650,Extracting data from various sources,failed,89328464138,1970-01-01,8121:1c5b:f7ea:aa44:ced8:921d:5b7:255b,Queensland,Australia
+651,Extracting data from various sources,success,89328464139,1970-01-01,fb10:6389:1b14:2a87:730d:884e:608:4b13,Ontario,Canada
+652,Extracting data from various sources,success,89328464140,1970-01-01,dac3:2ebc:9e9:c46c:4150:a7a9:a55a:fd50,Ontario,Canada
+653,Data governance,success,89328464141,1970-01-01,8a8:f322:91:a546:ccf5:9185:3fce:dd43,Florida,USA
+654,Extracting data from various sources,success,89328464142,1970-01-01,2bcd:d65b:f223:4eb2:6e91:6f05:18fb:4d03,Queensland,Australia
+655,Extracting data from various sources,-,89328464143,1970-01-01,a846:8aff:166d:57da:729e:3116:88ba:786,Queensland,Australia
+656,Data quality assurance,failed,89328464144,1970-01-01,50f2:b1b7:da3a:7045:a7c5:a29f:1fc4:be35,California,USA
+657,Building data pipelines,success,89328464145,1970-01-01,2310:643a:b1fc:c915:ca43:cc8:b06b:25bb,Ontario,Canada
+658,Building data pipelines,success,89328464146,1970-01-01,286e:6de7:b000:a840:6ddf:8736:fdc:16d2,Florida,USA
+659,Extracting data from various sources,success,89328464147,1970-01-01,16b:38c0:efd1:d359:2e46:8362:df52:e949,New York,USA
+660,Extracting data from various sources,failed,89328464148,1970-01-01,862a:1aac:71ee:d420:e5e0:1ff7:d764:44b1,Queensland,Australia
+661,Loading data into a data warehouse,success,89328464149,1970-01-01,e2b6:7458:1faa:ecc4:8bd2:c1c0:f6af:6a1,Texas,USA
+662,Transforming data into a unified format,success,89328464150,1970-01-01,4d61:e612:8a90:fe3e:3ec4:f5c8:611a:5032,Tokyo,Japan
+663,Transforming data into a unified format,success,89328464151,1970-01-01,abe9:e9c4:2a16:bd28:58fb:f9b3:b311:55cc,Florida,USA
+664,Extracting data from various sources,failed,89328464152,1970-01-01,2fa8:2f57:7c83:6dae:daad:89e2:7b46:1459,Queensland,Australia
+665,Extracting data from various sources,success,89328464153,1970-01-01,55db:d11:17e6:5969:3008:74f7:6cd9:e5a9,Queensland,Australia
+666,Data integration,success,89328464154,1970-01-01,d758:1ae6:6337:c953:6060:951:fbdb:f6db,Queensland,Australia
+667,Transforming data into a unified format,-,89328464155,1970-01-01,40fb:9654:5497:8023:7a58:23c1:bb6e:dd5d,Queensland,Australia
+668,Extracting data from various sources,success,89328464156,1970-01-01,d86e:3e5b:a256:589f:d7df:e7df:4d38:2af6,California,USA
+669,Building data pipelines,success,89328464157,1970-01-01,8679:ba7e:57c0:d6b8:ffcc:5a4a:3970:742d,Queensland,Australia
+670,Data quality assurance,success,89328464158,1970-01-01,50f4:9654:329e:1ebc:b3a3:c588:5cdf:20b8,Queensland,Australia
+671,Extracting data from various sources,success,89328464159,1970-01-01,e56e:1e73:2433:c298:300c:9f33:9949:e0d9,New York,USA
+672,Building data pipelines,success,89328464160,1970-01-01,91fd:ebd1:a07f:3ff1:c13c:29eb:b851:3918,Ontario,Canada
+673,Data quality assurance,success,89328464161,1970-01-01,38ba:a1c7:7bdd:3107:54e6:f18c:900d:5499,New York,USA
+674,Designing and implementing data models,-,89328464162,1970-01-01,2a51:2041:a934:6950:2cad:a11a:9750:1e28,Tokyo,Japan
+675,Loading data into a data warehouse,success,89328464163,1970-01-01,d929:3c8c:4431:bdff:2dee:2c9e:bbf1:3765,New York,USA
+676,Data integration,-,89328464164,1970-01-01,cf3c:68d3:6fdb:868c:7625:8d5c:1abc:2177,Queensland,Australia
+677,Data governance,success,89328464165,1970-01-01,ba97:a58d:aee8:84ac:ce24:db20:3db0:3b37,Florida,USA
+678,Data governance,success,89328464166,1970-01-01,368e:dd99:663e:a070:9344:d906:cf5e:f392,Queensland,Australia
+679,Loading data into a data warehouse,success,89328464167,1970-01-01,2946:c79b:3d98:5eb6:6236:3998:aa68:8592,Paris,France
+680,Transforming data into a unified format,failed,89328464168,1970-01-01,a0df:5703:d40d:6995:c981:3b32:673f:e916,Paris,France
+681,Data quality assurance,success,89328464169,1970-01-01,69c8:fd3b:ca9f:86c4:76bd:dbcf:e1d5:10e6,Paris,France
+682,Transforming data into a unified format,success,89328464170,1970-01-01,9a1d:9ebf:9b9f:f2c0:3e6c:fd23:d3fd:ee8b,Paris,France
+683,Data governance,-,89328464171,1970-01-01,c40f:c9fe:eebc:40d:32c4:c49d:341f:60af,Paris,France
+684,Loading data into a data warehouse,success,89328464172,1970-01-01,9f3f:82f:6860:cfd9:41af:790e:70fd:c8ad,Paris,France
+685,Extracting data from various sources,success,89328464173,1970-01-01,b454:80ab:c01f:ab41:73cb:51d3:77e4:95cc,Texas,USA
+686,Extracting data from various sources,success,89328464174,1970-01-01,5c68:a964:41e:ee78:7321:1f4f:daa5:1b5b,Paris,France
+687,Loading data into a data warehouse,success,89328464175,1970-01-01,6b44:ee7b:bf0a:844c:ae4:9fef:d146:f265,Queensland,Australia
+688,Extracting data from various sources,success,89328464176,1970-01-01,cee:e13f:fa1b:cab4:6b41:236a:38b8:ba8c,Florida,USA
+689,Data integration,success,89328464177,1970-01-01,844d:970f:450b:69d0:5fa8:3941:1a76:b9f8,New York,USA
+690,Transforming data into a unified format,success,89328464178,1970-01-01,978d:a83:c69a:1d51:a39:be13:7b3f:8055,Ontario,Canada
+691,Loading data into a data warehouse,success,89328464179,1970-01-01,f5b9:5d1e:11f6:b3ff:b3cf:c018:2d37:e77,Queensland,Australia
+692,Designing and implementing data models,failed,89328464180,1970-01-01,bad6:569f:c3a8:29ef:2057:d390:41dd:a3f8,New York,USA
+693,Data governance,success,89328464181,1970-01-01,126d:63ba:c98:e7b4:f808:f3ae:c5c1:c0d6,Tokyo,Japan
+694,Building data pipelines,success,89328464182,1970-01-01,a495:cfe7:1983:4106:b216:14b4:54c9:23c5,New York,USA
+695,Data integration,success,89328464183,1970-01-01,ff7b:aee4:cdfe:2b44:f408:a9eb:a980:833a,New York,USA
+696,Extracting data from various sources,success,89328464184,1970-01-01,70ed:2dba:eb67:894f:96bb:a757:13fb:c2f3,Ontario,Canada
+697,Data integration,success,89328464185,1970-01-01,d243:6b07:e417:67fd:ef03:9569:dedf:b055,Queensland,Australia
+698,Designing and implementing data models,success,89328464186,1970-01-01,fd1b:e6ac:f64c:3887:d857:76c9:8c3e:86f8,California,USA
+699,Building data pipelines,failed,89328464187,1970-01-01,50bd:64a4:20c:a116:ef44:ecef:4895:19db,Paris,France
+700,Loading data into a data warehouse,success,89328464188,1970-01-01,3e86:209c:ecb7:29a4:e544:24ea:1b2f:26cc,Paris,France
+701,Extracting data from various sources,success,89328464189,1970-01-01,71dc:7a55:94d9:e8d6:6869:18d6:1ee8:b10d,Ontario,Canada
+702,Extracting data from various sources,success,89328464190,1970-01-01,951e:69ed:15:2ac2:aa3f:71d5:6556:871d,Ontario,Canada
+703,Transforming data into a unified format,success,89328464191,1970-01-01,51e1:a973:402a:fbcd:1591:5cee:ce4d:5473,New York,USA
+704,Loading data into a data warehouse,success,89328464192,1970-01-01,80ad:a495:177a:f16b:20a6:26c1:902b:f956,Texas,USA
+705,Data quality assurance,failed,89328464193,1970-01-01,e68b:ae48:391:29a4:f3ac:5ffa:91ae:771c,Florida,USA
+706,Designing and implementing data models,success,89328464194,1970-01-01,937a:ee47:397c:e710:74e1:cb72:1c44:eb04,Ontario,Canada
+707,Designing and implementing data models,failed,89328464195,1970-01-01,735c:3f48:709b:c08a:5a41:1c00:1af5:74fe,New York,USA
+708,Extracting data from various sources,-,89328464196,1970-01-01,56ea:2b6e:bd49:f42f:1fd5:f8ed:3183:c568,Paris,France
+709,Designing and implementing data models,success,89328464197,1970-01-01,3882:2292:f51c:2a6b:991f:d289:30d1:fa1,California,USA
+710,Optimizing database performance,-,89328464198,1970-01-01,88e3:89c2:c850:c7dd:7ea0:6e04:12be:d543,Ontario,Canada
+711,Transforming data into a unified format,success,89328464199,1970-01-01,ef01:7a6e:8124:8827:6608:7201:857d:929c,New York,USA
+712,Data quality assurance,success,89328464200,1970-01-01,dcb1:671e:b2fd:d095:bfc3:1a3a:ea93:e72b,New York,USA
+713,Building data pipelines,success,89328464201,1970-01-01,ca93:b519:ff5:da8b:d67e:ab0f:6e42:76d5,Florida,USA
+714,Designing and implementing data models,success,89328464202,1970-01-01,4926:822:2c98:2e3e:b5c9:5ca4:8825:b198,New York,USA
+715,Data integration,success,89328464203,1970-01-01,6965:202e:74cd:f211:dce1:1483:c06e:a998,Paris,France
+716,Extracting data from various sources,failed,89328464204,1970-01-01,49ad:9eb7:99f6:bf83:495e:7928:bef8:f49e,New York,USA
+717,Building data pipelines,success,89328464205,1970-01-01,9309:7c5f:92ea:bc:389c:94d1:5ab:5d55,Texas,USA
+718,Extracting data from various sources,success,89328464206,1970-01-01,7a0:9b46:1e4c:edd4:5d17:2780:1ea4:309c,New York,USA
+719,Data governance,-,89328464207,1970-01-01,7697:1b6d:63ce:b95c:ce71:f5ad:1ed2:2711,Tokyo,Japan
+720,Optimizing database performance,success,89328464208,1970-01-01,4ab2:5835:976e:fbba:e5e7:566d:a4b3:a195,New York,USA
+721,Loading data into a data warehouse,-,89328464209,1970-01-01,514a:2fbc:3fdd:dade:1024:2339:5ace:8c2f,Ontario,Canada
+722,Transforming data into a unified format,success,89328464210,1970-01-01,d241:a37f:ef1c:77b4:c2b:7fec:414e:8a0c,Texas,USA
+723,Transforming data into a unified format,-,89328464211,1970-01-01,adc:9bd0:b6f9:b08f:7c25:2ffd:e9a9:487b,Paris,France
+724,Extracting data from various sources,success,89328464212,1970-01-01,2702:b439:6f56:5285:eea6:1b3:260c:9cb6,Paris,France
+725,Data integration,-,89328464213,1970-01-01,f5ad:bf6:70ad:96c:b8b8:9873:91c9:b92a,Queensland,Australia
+726,Data governance,failed,89328464214,1970-01-01,723d:367c:6d59:f275:9731:704b:b858:7fc1,Paris,France
+727,Building data pipelines,success,89328464215,1970-01-01,4275:7936:37df:332b:d70f:8615:f5ba:9c85,Tokyo,Japan
+728,Transforming data into a unified format,-,89328464216,1970-01-01,bfb8:64cb:79c9:8e78:287b:3536:a516:f79c,Florida,USA
+729,Transforming data into a unified format,success,89328464217,1970-01-01,8d9b:8ee9:f0dd:a3ee:d33e:fb2c:27ae:90da,Ontario,Canada
+730,Data governance,success,89328464218,1970-01-01,4b40:b06e:ad0f:a828:5063:76ac:b4c2:3b80,Queensland,Australia
+731,Extracting data from various sources,-,89328464219,1970-01-01,64e5:f5bb:2f0c:914d:c371:31bb:5409:31e8,Tokyo,Japan
+732,Transforming data into a unified format,success,89328464220,1970-01-01,151a:5eb0:5760:8be0:e247:1a92:cda4:5b43,California,USA
+733,Transforming data into a unified format,failed,89328464221,1970-01-01,afe8:3498:23ed:b00f:6eb2:8a9e:a9c7:c4e,California,USA
+734,Loading data into a data warehouse,success,89328464222,1970-01-01,f3de:a1d7:fab4:49f1:8a5:7de3:2df0:7051,California,USA
+735,Data governance,failed,89328464223,1970-01-01,4cda:9d40:1a0f:6b1f:769:6d1c:ed21:4fb3,Tokyo,Japan
+736,Data quality assurance,-,89328464224,1970-01-01,56d5:8e15:d406:b94b:9bcd:5c9:cfe9:b62c,Tokyo,Japan
+737,Extracting data from various sources,success,89328464225,1970-01-01,8b67:c7ac:7e69:8968:fb09:2447:17b6:ffdd,Texas,USA
+738,Data governance,success,89328464226,1970-01-01,9a3c:ac08:548e:1949:2f9d:1794:46c8:4adf,Florida,USA
+739,Extracting data from various sources,success,89328464227,1970-01-01,56af:e4d8:96b7:26c8:63fe:15b4:5faa:b49,Texas,USA
+740,Optimizing database performance,success,89328464228,1970-01-01,8317:4bfe:f6ab:13eb:1232:6688:b160:e427,New York,USA
+741,Data quality assurance,success,89328464229,1970-01-01,162f:11f0:d64e:c353:a667:96c8:e04b:a02,Florida,USA
+742,Building data pipelines,success,89328464230,1970-01-01,2c7b:a207:d144:531c:3114:1d67:a070:f579,Florida,USA
+743,Transforming data into a unified format,-,89328464231,1970-01-01,1e0b:8c80:3df2:5c32:af22:dcec:db21:c2ff,California,USA
+744,Data integration,success,89328464232,1970-01-01,3d0d:dc6c:4af3:162b:6b56:2580:28fd:7410,Tokyo,Japan
+745,Designing and implementing data models,success,89328464233,1970-01-01,c3b1:42e1:5004:8749:3364:bc3e:f6ff:43af,New York,USA
+746,Data quality assurance,success,89328464234,1970-01-01,4ac8:505f:da18:4711:f7da:3a24:9887:488f,Tokyo,Japan
+747,Data quality assurance,success,89328464235,1970-01-01,f0de:7b23:363b:f794:9d33:f75:af3c:9578,Ontario,Canada
+748,Data governance,failed,89328464236,1970-01-01,1ab4:d316:605d:79ec:b9fa:357b:2af5:cda6,Paris,France
+749,Extracting data from various sources,success,89328464237,1970-01-01,c1d0:2bab:1af:2318:a3c5:51bd:ee09:fdd6,New York,USA
+750,Building data pipelines,success,89328464238,1970-01-01,c1b8:1df0:72c5:369:6317:d8fc:ec5d:7b8b,Ontario,Canada
+751,Designing and implementing data models,success,89328464239,1970-01-01,c4ae:eb9a:c09:1568:dc3f:95f7:cc0a:bda5,Queensland,Australia
+752,Transforming data into a unified format,success,89328464240,1970-01-01,13d5:7d5f:3864:8b14:de1d:d0c6:8a02:c190,California,USA
+753,Extracting data from various sources,success,89328464241,1970-01-01,1216:ca63:d076:24f2:d2f7:e5c7:d0f8:ba8b,Ontario,Canada
+754,Data governance,success,89328464242,1970-01-01,9661:cfb4:8c15:b6f4:58a1:b702:377c:5688,Paris,France
+755,Building data pipelines,success,89328464243,1970-01-01,ac7b:4230:7c57:ee54:eba1:ee1c:5711:4581,New York,USA
+756,Optimizing database performance,success,89328464244,1970-01-01,c7af:5673:691c:36c6:7620:6d7f:23ea:e6cc,Queensland,Australia
+757,Transforming data into a unified format,success,89328464245,1970-01-01,e80f:7ade:44e1:3453:aab9:5886:8aac:adf7,Florida,USA
+758,Building data pipelines,success,89328464246,1970-01-01,2f4d:6997:513c:13f6:33c6:3635:2e65:a071,Paris,France
+759,Extracting data from various sources,success,89328464247,1970-01-01,71d8:3a16:7f21:c4ce:1d5c:3822:f32d:d6f0,Paris,France
+760,Loading data into a data warehouse,success,89328464248,1970-01-01,230a:315a:1650:59e9:6916:fe69:6d30:1ff2,New York,USA
+761,Transforming data into a unified format,failed,89328464249,1970-01-01,588e:7fd0:5012:889d:d88c:90a8:acf2:46fe,Ontario,Canada
+762,Extracting data from various sources,-,89328464250,1970-01-01,4568:600c:2e6e:ba84:4de:f3c9:6b7:eca8,California,USA
+763,Data quality assurance,failed,89328464251,1970-01-01,2abd:a066:f607:ce1d:cf62:7ae5:c239:920f,Tokyo,Japan
+764,Data quality assurance,failed,89328464252,1970-01-01,17b6:45d6:f9dc:bc9f:6613:208b:7a9a:e583,California,USA
+765,Data governance,failed,89328464253,1970-01-01,19a0:81f7:4300:2333:2ac2:8026:fbb6:5f4c,Paris,France
+766,Designing and implementing data models,failed,89328464254,1970-01-01,5ef5:10cc:3fef:acbf:57f3:c9c0:3af6:2cce,Tokyo,Japan
+767,Designing and implementing data models,success,89328464255,1970-01-01,7f95:8ed4:cc22:da71:8ccc:3cf1:8ff8:c8b4,Florida,USA
+768,Data integration,-,89328464256,1970-01-01,39eb:3744:e37c:6cfe:ea16:fb2b:f0a5:34d,Queensland,Australia
+769,Building data pipelines,-,89328464257,1970-01-01,bbbc:72e5:25c9:1682:fdb9:ddf3:2af2:b534,California,USA
+770,Extracting data from various sources,success,89328464258,1970-01-01,bb39:aa1f:5958:f515:9655:fc98:9d41:664a,Ontario,Canada
+771,Transforming data into a unified format,success,89328464259,1970-01-01,ae1d:b8c1:3f1b:a708:3e2a:abb4:bc5e:8005,Tokyo,Japan
+772,Loading data into a data warehouse,failed,89328464260,1970-01-01,8231:1427:d9a:4ef2:f902:9862:fe75:ddab,Ontario,Canada
+773,Data quality assurance,success,89328464261,1970-01-01,bbfd:83e0:f940:a0ba:aaa8:a181:beb4:3315,New York,USA
+774,Extracting data from various sources,success,89328464262,1970-01-01,3a3c:523d:62:a47f:aacd:247b:19af:9827,Florida,USA
+775,Data quality assurance,success,89328464263,1970-01-01,9e69:7fb8:f2b7:dc8f:3673:1e71:fd1a:a4e1,Paris,France
+776,Extracting data from various sources,success,89328464264,1970-01-01,26b5:4d07:b24b:6678:844b:10d7:9c62:7240,Paris,France
+777,Transforming data into a unified format,success,89328464265,1970-01-01,6e78:a41a:73a6:567d:6999:ae8e:66e7:44b5,New York,USA
+778,Optimizing database performance,success,89328464266,1970-01-01,dc32:9f14:f08d:64e7:3aff:46c5:56fb:c0fd,Florida,USA
+779,Data integration,success,89328464267,1970-01-01,6308:c4a4:cc79:1cf8:8c0d:b986:9155:19b6,Ontario,Canada
+780,Extracting data from various sources,success,89328464268,1970-01-01,dff3:33af:5cb3:ceff:8f28:e8b4:3048:5350,Tokyo,Japan
+781,Data quality assurance,success,89328464269,1970-01-01,9e82:6127:5f9c:275:ca73:d452:3656:c517,Florida,USA
+782,Building data pipelines,-,89328464270,1970-01-01,36d8:53f8:d522:bbfd:59b3:db7e:e93d:f467,New York,USA
+783,Data governance,success,89328464271,1970-01-01,3f38:7d91:f331:d5ff:1b2c:8883:3060:7824,California,USA
+784,Designing and implementing data models,-,89328464272,1970-01-01,9507:f87:ae92:f91a:3e4e:3fd0:361e:584a,New York,USA
+785,Extracting data from various sources,success,89328464273,1970-01-01,e190:404d:f71:d94:b985:dc4a:bc9e:60d4,Queensland,Australia
+786,Optimizing database performance,success,89328464274,1970-01-01,a809:f47c:5f6f:f1d7:1dba:93bd:250e:2818,Florida,USA
+787,Data integration,success,89328464275,1970-01-01,1f1c:2eef:2c40:b233:5212:a9fc:b9bb:ed6,Florida,USA
+788,Data governance,success,89328464276,1970-01-01,21d3:5623:c6b9:8a57:48ff:7fed:1ae1:3265,Queensland,Australia
+789,Extracting data from various sources,failed,89328464277,1970-01-01,2878:be13:d567:5ebb:6a0f:8094:eace:e2ec,Florida,USA
+790,Designing and implementing data models,success,89328464278,1970-01-01,2a97:a14b:d1e2:e7a9:3155:a84c:fe6d:7ce5,Florida,USA
+791,Building data pipelines,success,89328464279,1970-01-01,f7d8:25a2:899d:58fa:bc52:2242:9634:14a0,New York,USA
+792,Extracting data from various sources,success,89328464280,1970-01-01,5ddc:2eff:6425:d715:dbab:e8c9:4dfc:756a,Queensland,Australia
+793,Optimizing database performance,success,89328464281,1970-01-01,58d4:4d37:c53:6ce3:6ae8:7f23:c6e1:412f,California,USA
+794,Optimizing database performance,success,89328464282,1970-01-01,14d5:235b:c43a:1e61:361:e7e9:6778:d205,Ontario,Canada
+795,Transforming data into a unified format,success,89328464283,1970-01-01,3024:80ed:f147:313e:cdb0:3b26:e401:ea25,Queensland,Australia
+796,Extracting data from various sources,success,89328464284,1970-01-01,51a4:6b33:9fa8:2db1:9283:f631:ea71:f137,Queensland,Australia
+797,Data quality assurance,success,89328464285,1970-01-01,b635:2e65:d621:189c:1460:ced4:78da:bee2,Texas,USA
+798,Building data pipelines,-,89328464286,1970-01-01,2895:f237:e7cf:2a6:87a2:54d4:e18a:2f2a,Texas,USA
+799,Loading data into a data warehouse,failed,89328464287,1970-01-01,4ca5:e07b:81b1:151:186:f547:e70e:7c8c,Tokyo,Japan
+800,Extracting data from various sources,success,89328464288,1970-01-01,1d42:3c18:898c:125a:d80d:4f78:ecf3:6973,Texas,USA
+801,Extracting data from various sources,success,89328464289,1970-01-01,29d2:e22f:70b4:707d:d7c0:fdc9:6d29:3549,Paris,France
+802,Building data pipelines,success,89328464290,1970-01-01,5b1b:b7f0:4951:ebbc:3cd:ad0d:7b79:e4a0,California,USA
+803,Data quality assurance,failed,89328464291,1970-01-01,855b:6508:3190:3570:db65:316e:1b00:d682,Paris,France
+804,Data integration,success,89328464292,1970-01-01,ea0f:bc0b:4cbf:52d8:6714:bc1f:f96d:deff,Florida,USA
+805,Loading data into a data warehouse,success,89328464293,1970-01-01,c8da:1fbb:7a10:f424:ac13:3e7b:a63d:e395,Florida,USA
+806,Building data pipelines,success,89328464294,1970-01-01,c0c5:fb46:75ae:e967:2ee2:510c:a95a:bee8,Queensland,Australia
+807,Data quality assurance,success,89328464295,1970-01-01,f4f2:3070:3eae:181c:41c9:285b:fac1:7b52,Ontario,Canada
+808,Data quality assurance,success,89328464296,1970-01-01,5964:4a62:4e95:94b6:69e5:33ac:cc3b:ce1e,Florida,USA
+809,Extracting data from various sources,success,89328464297,1970-01-01,6fe6:8c3b:8597:9bd9:83dd:42c0:8e6d:a91c,Paris,France
+810,Extracting data from various sources,success,89328464298,1970-01-01,a890:f13e:7196:5de5:be86:989a:36e5:7f1c,Tokyo,Japan
+811,Building data pipelines,-,89328464299,1970-01-01,426f:c4ab:f222:4b34:9de6:f2b4:2ffd:a99c,Florida,USA
+812,Data quality assurance,success,89328464300,1970-01-01,6117:ad1c:3cad:631e:e1b7:f39e:8fb4:87a,Ontario,Canada
+813,Transforming data into a unified format,success,89328464301,1970-01-01,1543:178:da22:c5af:48ab:d19d:b978:938c,Florida,USA
+814,Loading data into a data warehouse,failed,89328464302,1970-01-01,be77:655f:8fba:2194:278a:e76a:be35:ba82,Texas,USA
+815,Data integration,success,89328464303,1970-01-01,ac8d:11ad:83b4:7682:ba2f:8344:e124:7ad0,Paris,France
+816,Extracting data from various sources,success,89328464304,1970-01-01,823a:7801:3dd6:98c3:5905:3325:ece:3cec,Paris,France
+817,Optimizing database performance,success,89328464305,1970-01-01,538b:a8:7ebe:e161:e1c9:321d:fcf:66e,Florida,USA
+818,Data quality assurance,success,89328464306,1970-01-01,c4a3:57b3:a27b:7ead:814d:b157:e334:1677,Texas,USA
+819,Building data pipelines,success,89328464307,1970-01-01,848f:5796:e7f2:a85d:e24f:9842:5f3f:936e,New York,USA
+820,Optimizing database performance,success,89328464308,1970-01-01,de13:6621:8054:a970:ce33:bb6:ffc6:725b,California,USA
+821,Data integration,failed,89328464309,1970-01-01,8b57:2549:bf71:9577:5a17:17be:9fca:24f2,Ontario,Canada
+822,Building data pipelines,-,89328464310,1970-01-01,63f8:a2bf:453a:e613:f0ad:29d1:7be4:ce3d,Paris,France
+823,Data governance,success,89328464311,1970-01-01,9976:e3e6:3f95:5f6a:4f8a:81e4:b301:fc36,California,USA
+824,Building data pipelines,success,89328464312,1970-01-01,7200:c829:c99e:2c64:6ba6:366c:c3b1:b42,Texas,USA
+825,Loading data into a data warehouse,success,89328464313,1970-01-01,fa28:e2f3:4842:f00f:16a7:8c60:87eb:1449,Paris,France
+826,Transforming data into a unified format,success,89328464314,1970-01-01,f115:d7d8:f519:a63:9706:af9d:9b6a:d104,California,USA
+827,Data governance,success,89328464315,1970-01-01,8c2a:1f1:315e:267:39e0:b32a:f393:5d7b,Tokyo,Japan
+828,Data governance,-,89328464316,1970-01-01,5ef8:f325:7ea6:cdb6:73d1:5d3d:ffca:3b6c,Tokyo,Japan
+829,Optimizing database performance,success,89328464317,1970-01-01,fa8b:97f2:b71d:de5e:29a2:645:dbac:2b13,Queensland,Australia
+830,Designing and implementing data models,success,89328464318,1970-01-01,40c9:fc22:d7d4:a6b3:3e6a:fc:dacc:442,Tokyo,Japan
+831,Transforming data into a unified format,success,89328464319,1970-01-01,8989:b392:1360:f633:6d0f:ed7b:6704:a932,Paris,France
+832,Transforming data into a unified format,success,89328464320,1970-01-01,279f:32e7:3101:ee0d:7fe9:820a:cd5b:a28d,Paris,France
+833,Extracting data from various sources,success,89328464321,1970-01-01,ae25:a825:3b04:f819:ecbf:9974:6d92:3e2b,Texas,USA
+834,Designing and implementing data models,-,89328464322,1970-01-01,2f10:84dd:5615:ef12:94b2:8856:1073:95d1,New York,USA
+835,Data governance,success,89328464323,1970-01-01,6562:946:8d04:aa72:3abe:8af6:b104:d520,Ontario,Canada
+836,Building data pipelines,success,89328464324,1970-01-01,6926:c640:b03e:4711:dddd:872b:4848:51f3,Florida,USA
+837,Loading data into a data warehouse,success,89328464325,1970-01-01,aea6:d650:7c32:7702:8ac6:9cee:52b9:5ba9,Ontario,Canada
+838,Designing and implementing data models,success,89328464326,1970-01-01,aea0:f21f:c4ff:a31c:ff82:78e5:f27b:c398,Queensland,Australia
+839,Data quality assurance,success,89328464327,1970-01-01,bb0b:8e8d:5c7f:d514:92ad:536e:bf0b:1f9b,Tokyo,Japan
+840,Transforming data into a unified format,success,89328464328,1970-01-01,1122:aa8:694c:86d8:5d1f:e333:9044:519c,Florida,USA
+841,Transforming data into a unified format,success,89328464329,1970-01-01,1f1f:8378:b9f1:7a67:b586:32b2:2567:86fe,Queensland,Australia
+842,Extracting data from various sources,success,89328464330,1970-01-01,bdb9:b794:acad:6d7c:b549:436e:fa37:b417,Texas,USA
+843,Extracting data from various sources,success,89328464331,1970-01-01,cba9:63a:f922:76f4:6420:8efb:d24b:be22,New York,USA
+844,Extracting data from various sources,success,89328464332,1970-01-01,9233:f647:3f61:9b3c:bf3f:8dc7:c9f7:dd2f,Florida,USA
+845,Data governance,failed,89328464333,1970-01-01,4aec:814e:dbff:e3e6:655:9d3e:9d6d:9260,Paris,France
+846,Optimizing database performance,success,89328464334,1970-01-01,8853:cb98:2ff4:9971:b1ba:72c9:6092:5398,Ontario,Canada
+847,Data governance,failed,89328464335,1970-01-01,7801:91e9:d64a:3c82:5b25:67a8:2e33:58b7,New York,USA
+848,Extracting data from various sources,failed,89328464336,1970-01-01,6b7d:a5d6:ddf8:10f7:1ad8:ff6:673e:5c7,Paris,France
+849,Loading data into a data warehouse,success,89328464337,1970-01-01,66c4:abe4:3bb0:6e14:add:f6f7:253a:c67b,Ontario,Canada
+850,Data integration,success,89328464338,1970-01-01,ff3d:50d7:7839:28a9:9c04:9de2:2a1d:43bb,Ontario,Canada
+851,Transforming data into a unified format,success,89328464339,1970-01-01,4c4c:6014:d4b8:941d:67bf:9054:7a01:f7b5,Paris,France
+852,Extracting data from various sources,success,89328464340,1970-01-01,528a:52c7:a049:10b2:34b2:56c3:c488:7f9e,New York,USA
+853,Data integration,success,89328464341,1970-01-01,f917:bedd:6ee6:5270:6743:ce6c:404b:de97,Texas,USA
+854,Optimizing database performance,success,89328464342,1970-01-01,fa50:74d2:cffa:f05a:1278:e257:e79c:d7e5,California,USA
+855,Data integration,success,89328464343,1970-01-01,9490:1de2:bdea:f402:5e14:600e:3aaf:eab2,Texas,USA
+856,Loading data into a data warehouse,failed,89328464344,1970-01-01,8c66:277b:c45f:3aed:10ea:98bb:fb9a:eff9,Texas,USA
+857,Transforming data into a unified format,-,89328464345,1970-01-01,81dd:f3cf:7ae0:2c4d:3ab4:5fb6:e18c:ed7e,Ontario,Canada
+858,Extracting data from various sources,-,89328464346,1970-01-01,b5b5:dfa4:691a:71d6:ee2c:4763:b863:6836,Queensland,Australia
+859,Extracting data from various sources,success,89328464347,1970-01-01,6dca:f06d:12a1:3ff0:cf0e:de3a:457:70af,Florida,USA
+860,Optimizing database performance,success,89328464348,1970-01-01,38ac:5615:5e8c:c288:d9b7:e051:72bd:955a,Tokyo,Japan
+861,Data governance,failed,89328464349,1970-01-01,12c:6ec9:8119:fc84:d82e:1e25:dff6:267d,Ontario,Canada
+862,Extracting data from various sources,-,89328464350,1970-01-01,4dc5:d652:c158:360f:3833:ed7b:d5d4:d20b,Tokyo,Japan
+863,Data quality assurance,success,89328464351,1970-01-01,c605:9e5e:e535:9158:dc4f:c1dd:d73c:9a95,Queensland,Australia
+864,Data governance,success,89328464352,1970-01-01,7e10:3043:e75c:5a90:15b2:ff8f:ed1f:d9e0,Florida,USA
+865,Optimizing database performance,success,89328464353,1970-01-01,8d4b:388e:616b:138e:259d:c6e5:91df:f170,California,USA
+866,Data integration,success,89328464354,1970-01-01,c70a:b59a:4779:366d:6464:4fa5:1eaf:6b1d,Tokyo,Japan
+867,Data quality assurance,success,89328464355,1970-01-01,3d5d:16ee:90ff:4c29:1033:80b:4cd4:6e43,Texas,USA
+868,Transforming data into a unified format,success,89328464356,1970-01-01,767b:3325:9755:b4da:ef10:d2bb:a08e:6cf5,Florida,USA
+869,Data quality assurance,success,89328464357,1970-01-01,8cb8:31e4:4695:b42:890b:7b2:1ee7:c477,Florida,USA
+870,Extracting data from various sources,success,89328464358,1970-01-01,7b96:b318:2f71:4d9f:6187:6e2:5473:8668,Texas,USA
+871,Data governance,success,89328464359,1970-01-01,dee8:755:b2f5:f453:e02a:7d7:71aa:e41a,New York,USA
+872,Building data pipelines,failed,89328464360,1970-01-01,167d:f68c:6e3d:b03c:858:122:ef9:3b5d,Paris,France
+873,Transforming data into a unified format,failed,89328464361,1970-01-01,174d:d4f0:d874:34c0:f787:83b1:2254:3a5a,Tokyo,Japan
+874,Extracting data from various sources,success,89328464362,1970-01-01,20e:9049:31a9:6455:ab01:9020:ea3f:14e3,Ontario,Canada
+875,Building data pipelines,success,89328464363,1970-01-01,15d9:583:513a:5243:bc9e:66c4:d118:4654,Tokyo,Japan
+876,Extracting data from various sources,success,89328464364,1970-01-01,4536:469f:5060:194b:d0d2:2c29:7d76:cae,Paris,France
+877,Extracting data from various sources,success,89328464365,1970-01-01,b50f:2f81:78cb:7245:d067:4233:fdd4:d54e,Texas,USA
+878,Loading data into a data warehouse,failed,89328464366,1970-01-01,8468:cfaf:7463:e57f:7b81:4e60:951d:c0d1,Florida,USA
+879,Data quality assurance,success,89328464367,1970-01-01,2466:efde:c670:ac9b:f74:94fc:d4b1:3041,Tokyo,Japan
+880,Extracting data from various sources,failed,89328464368,1970-01-01,4b41:2e62:2202:2aae:7a57:1a2d:a9c4:a8d5,Tokyo,Japan
+881,Data governance,-,89328464369,1970-01-01,5128:37bc:3f0c:a159:4e0d:61b:a74f:961b,Queensland,Australia
+882,Designing and implementing data models,-,89328464370,1970-01-01,8a51:801c:32f2:804:56fd:13c2:3048:2dd6,New York,USA
+883,Designing and implementing data models,-,89328464371,1970-01-01,8ead:620:edd2:7315:a1e9:aa42:9e27:8c60,Florida,USA
+884,Data governance,success,89328464372,1970-01-01,cfdd:9c42:8376:5125:6560:402b:56f4:ce1a,Ontario,Canada
+885,Loading data into a data warehouse,success,89328464373,1970-01-01,81cd:ba60:8342:3dec:dfce:2090:2f03:2609,Texas,USA
+886,Building data pipelines,success,89328464374,1970-01-01,2cb2:1e1a:b11b:4fb0:6c15:6a9d:cd6d:e1a3,New York,USA
+887,Extracting data from various sources,success,89328464375,1970-01-01,9cea:9351:a8f5:9be9:edca:5fdc:dac4:8d04,California,USA
+888,Extracting data from various sources,success,89328464376,1970-01-01,3490:e97d:ffe4:e6a2:2dba:ada3:6acf:4bc,Queensland,Australia
+889,Extracting data from various sources,success,89328464377,1970-01-01,b5a8:e33f:a7d2:a208:86fa:9e89:db89:4f59,Tokyo,Japan
+890,Building data pipelines,success,89328464378,1970-01-01,52f5:afa0:8ebd:b0d2:3a03:2c48:a299:b7bb,Texas,USA
+891,Transforming data into a unified format,success,89328464379,1970-01-01,5dc2:c892:1e64:9863:237c:3a2b:5c5a:4cb7,Texas,USA
+892,Building data pipelines,success,89328464380,1970-01-01,3c0a:ed0d:6a5f:9031:5cc8:4bbe:99ed:1dc8,Queensland,Australia
+893,Data governance,success,89328464381,1970-01-01,6700:7929:2e07:e007:a19c:c497:8af6:47e5,California,USA
+894,Extracting data from various sources,success,89328464382,1970-01-01,1fd2:7b2a:b107:73ba:1198:3c57:723a:f0f1,Florida,USA
+895,Designing and implementing data models,failed,89328464383,1970-01-01,6c9a:1814:37ed:abf2:d3d9:b73b:8f4f:dca2,Queensland,Australia
+896,Extracting data from various sources,failed,89328464384,1970-01-01,23d5:843f:e005:c4b:349c:7397:4406:c143,New York,USA
+897,Extracting data from various sources,success,89328464385,1970-01-01,f548:f217:8d77:f3f:4505:989d:2c2a:6e3f,Florida,USA
+898,Data quality assurance,success,89328464386,1970-01-01,876b:7103:cef8:8dba:150b:7aa2:3a5f:2a0c,California,USA
+899,Loading data into a data warehouse,failed,89328464387,1970-01-01,16c0:4616:c60d:fdb7:c18d:461c:3a31:f0c9,Texas,USA
+900,Data quality assurance,failed,89328464388,1970-01-01,9bd3:c317:8a47:ee6a:aa45:ec38:c03e:84d0,New York,USA
+901,Extracting data from various sources,success,89328464389,1970-01-01,bb23:abc6:b853:4978:8337:1f72:101e:bc25,New York,USA
+902,Extracting data from various sources,success,89328464390,1970-01-01,7ad2:f1da:4bf3:4708:8acd:8698:a3a8:114d,New York,USA
+903,Loading data into a data warehouse,success,89328464391,1970-01-01,4b55:e93a:a431:a64b:3139:895c:5190:aa15,New York,USA
+904,Building data pipelines,failed,89328464392,1970-01-01,5aa9:d18f:9c65:752c:3050:b53:f34a:c915,Paris,France
+905,Building data pipelines,-,89328464393,1970-01-01,ad68:f258:181f:19bd:392b:3474:d17e:5c21,Texas,USA
+906,Data integration,success,89328464394,1970-01-01,cafd:fe5f:5b77:c848:c4c7:c3db:e05a:76e4,California,USA
+907,Transforming data into a unified format,success,89328464395,1970-01-01,7f1a:40c0:17c1:de1:2d68:1041:3dde:b664,Paris,France
+908,Extracting data from various sources,-,89328464396,1970-01-01,e7f3:d92d:ca08:db7a:8d8f:d04d:1e1:cab0,Ontario,Canada
+909,Data quality assurance,success,89328464397,1970-01-01,190c:4f29:8cb8:cf1a:6d3b:3190:68a3:1f54,Tokyo,Japan
+910,Data governance,success,89328464398,1970-01-01,2a55:c654:c23d:e120:16d5:2363:c40e:946a,Tokyo,Japan
+911,Data governance,success,89328464399,1970-01-01,b7b3:648f:4cc9:285e:c6af:1032:b348:1697,Paris,France
+912,Extracting data from various sources,success,89328464400,1970-01-01,fe54:fe2d:6dda:e0ba:3e03:613a:aabc:d2ec,Tokyo,Japan
+913,Extracting data from various sources,failed,89328464401,1970-01-01,692d:8b9:1fd9:aae0:6c0e:fca9:a208:f8e7,Paris,France
+914,Transforming data into a unified format,failed,89328464402,1970-01-01,e4ed:7129:744:e77:6889:1f12:c49a:4884,Florida,USA
+915,Optimizing database performance,success,89328464403,1970-01-01,9802:31ad:94c8:dea0:9f5e:dcec:1bba:d7fc,Ontario,Canada
+916,Data quality assurance,success,89328464404,1970-01-01,a3eb:1522:24fe:5b00:7bcf:d4a8:8426:aee7,Ontario,Canada
+917,Extracting data from various sources,success,89328464405,1970-01-01,b962:84e5:a6fc:1eff:9acc:7c1d:7080:2562,Ontario,Canada
+918,Loading data into a data warehouse,success,89328464406,1970-01-01,49f2:4c89:6eb5:134d:5cbb:a595:9dc1:78f0,Tokyo,Japan
+919,Extracting data from various sources,success,89328464407,1970-01-01,c028:25c1:2c77:180c:1547:ea4:79af:f026,Tokyo,Japan
+920,Data quality assurance,success,89328464408,1970-01-01,a8f4:96f6:ecc4:f1d2:212:90d7:a44a:8104,Ontario,Canada
+921,Loading data into a data warehouse,success,89328464409,1970-01-01,cbe3:6da7:c81c:700e:81e8:254d:4520:114f,Queensland,Australia
+922,Transforming data into a unified format,success,89328464410,1970-01-01,4ded:87f5:3bd9:6861:c2a8:1e14:1e2c:5cc4,Tokyo,Japan
+923,Data governance,-,89328464411,1970-01-01,fd3a:2ae8:372f:53fd:c706:b74d:92fb:b628,Texas,USA
+924,Loading data into a data warehouse,success,89328464412,1970-01-01,dfad:b906:60b7:f22e:9d8:4140:3d36:530d,California,USA
+925,Data integration,success,89328464413,1970-01-01,b76:9085:2419:133e:b42b:99b:88d6:29ae,Paris,France
+926,Designing and implementing data models,success,89328464414,1970-01-01,80fc:9e87:6295:3f3d:811e:657b:4e30:4204,Queensland,Australia
+927,Designing and implementing data models,failed,89328464415,1970-01-01,8d70:cfe2:7ec7:434b:a13f:5a79:1fa5:9759,California,USA
+928,Data integration,-,89328464416,1970-01-01,31d3:86e:1cfe:5c25:4e8a:7d0a:3f3:8074,Ontario,Canada
+929,Data quality assurance,success,89328464417,1970-01-01,3540:c2d4:b25d:603:d16f:665b:a44e:488a,Paris,France
+930,Designing and implementing data models,success,89328464418,1970-01-01,b235:f6c8:713d:5a5e:d1a9:9f0d:8c74:f269,New York,USA
+931,Loading data into a data warehouse,success,89328464419,1970-01-01,105a:b192:fae1:cc7:4287:363:f074:d084,California,USA
+932,Designing and implementing data models,success,89328464420,1970-01-01,ba3f:2d22:6aec:48c3:bc6b:a5f3:1031:7023,Ontario,Canada
+933,Data quality assurance,success,89328464421,1970-01-01,fe24:42e8:5fd0:c7b3:310:749f:4039:b962,New York,USA
+934,Building data pipelines,failed,89328464422,1970-01-01,5ee3:1d2f:2cdb:8f9c:44fe:4b05:c074:aaf0,Queensland,Australia
+935,Extracting data from various sources,success,89328464423,1970-01-01,e9a3:7ea3:31c0:e1ac:8fed:8328:340d:30ca,Queensland,Australia
+936,Designing and implementing data models,success,89328464424,1970-01-01,c5b7:ef9:7744:1f5f:1357:a351:a967:e678,Queensland,Australia
+937,Transforming data into a unified format,failed,89328464425,1970-01-01,fd47:133b:59c7:f913:305d:afed:5519:f5e2,New York,USA
+938,Extracting data from various sources,failed,89328464426,1970-01-01,43b3:2c25:8981:ca5:4960:2f9e:855b:8358,Florida,USA
+939,Data quality assurance,success,89328464427,1970-01-01,f8de:3531:3641:aac5:76bb:41a9:ca:4015,Ontario,Canada
+940,Data governance,failed,89328464428,1970-01-01,64f6:d704:64f5:1a00:7543:9190:c7f:9004,New York,USA
+941,Transforming data into a unified format,success,89328464429,1970-01-01,c3c7:1400:92c:1336:6ef:33fa:85fb:754e,Tokyo,Japan
+942,Extracting data from various sources,-,89328464430,1970-01-01,922a:89b1:7f55:8484:8f0e:2816:19a2:413a,Queensland,Australia
+943,Optimizing database performance,success,89328464431,1970-01-01,f3e7:9981:aaa2:dabc:2d32:e0bd:3292:8af6,California,USA
+944,Extracting data from various sources,success,89328464432,1970-01-01,4ece:5a93:23fc:dcb9:1a33:9e7f:7c0e:faa2,Ontario,Canada
+945,Loading data into a data warehouse,-,89328464433,1970-01-01,aabe:2080:cc27:6d38:f4a8:4a3f:a2c8:fca2,Queensland,Australia
+946,Extracting data from various sources,success,89328464434,1970-01-01,ffda:a2f4:7264:ec29:2833:f39b:e5c3:1670,New York,USA
+947,Extracting data from various sources,success,89328464435,1970-01-01,9348:8f8f:af86:e9d:3a9c:6bc:f642:2ce6,California,USA
+948,Transforming data into a unified format,success,89328464436,1970-01-01,b1cc:d54f:1b50:84ec:8bd7:b5f8:a97f:118f,Ontario,Canada
+949,Data governance,success,89328464437,1970-01-01,e8ed:ab2d:a32c:dfa8:2d6a:e1f5:e6f3:2989,New York,USA
+950,Loading data into a data warehouse,success,89328464438,1970-01-01,4f17:28e6:c200:904c:35c3:363a:7e8f:9412,Florida,USA
+951,Designing and implementing data models,success,89328464439,1970-01-01,629b:5a13:2e4:766c:f563:9d99:2fa7:3a1a,Ontario,Canada
+952,Data governance,success,89328464440,1970-01-01,b832:b08c:6be9:51c:edeb:d0e2:58d2:b2af,Queensland,Australia
+953,Transforming data into a unified format,success,89328464441,1970-01-01,119a:6a15:d7d:5e87:a53c:36a6:7592:1a07,Ontario,Canada
+954,Designing and implementing data models,success,89328464442,1970-01-01,c1fe:151b:28d:e42:7685:cc65:d009:523,Texas,USA
+955,Building data pipelines,success,89328464443,1970-01-01,17a8:41f9:f9a8:8e65:173f:a0d1:f02c:c1e5,Queensland,Australia
+956,Building data pipelines,success,89328464444,1970-01-01,9599:42f0:909c:6e61:7547:9f84:f994:ce9b,Paris,France
+957,Data quality assurance,success,89328464445,1970-01-01,6388:e618:d5fe:503a:b2f5:61b8:3b89:b0f0,Florida,USA
+958,Building data pipelines,success,89328464446,1970-01-01,ea81:66a5:aeeb:ef51:fef7:8c14:a81b:9fb8,New York,USA
+959,Optimizing database performance,-,89328464447,1970-01-01,8a07:4614:ba3f:75ca:816f:66c9:da0d:8a8d,Texas,USA
+960,Building data pipelines,success,89328464448,1970-01-01,d6bc:4835:439e:64bd:87ec:52e6:8f76:9b9a,Ontario,Canada
+961,Data quality assurance,success,89328464449,1970-01-01,6fa3:3a72:ad9:12fd:8ecb:538:19d7:e260,California,USA
+962,Extracting data from various sources,failed,89328464450,1970-01-01,f6f8:a0ac:17ca:560d:56e1:634a:bc5e:1ed3,California,USA
+963,Extracting data from various sources,failed,89328464451,1970-01-01,fe9a:c718:1c9:8656:453b:cd8f:7f35:542,New York,USA
+964,Designing and implementing data models,success,89328464452,1970-01-01,fd1d:9ceb:b93d:217d:f1a3:621:d944:640b,Tokyo,Japan
+965,Data governance,success,89328464453,1970-01-01,89ed:ee73:c2ca:8794:45d5:f169:c9b4:5edf,Florida,USA
+966,Extracting data from various sources,-,89328464454,1970-01-01,1fe1:2555:111d:7219:affb:e177:a079:733a,Queensland,Australia
+967,Optimizing database performance,failed,89328464455,1970-01-01,96de:2333:458c:f3a2:84af:5580:4254:c397,Queensland,Australia
+968,Building data pipelines,success,89328464456,1970-01-01,798b:205a:a710:b012:f641:e790:765f:173e,Queensland,Australia
+969,Data governance,success,89328464457,1970-01-01,5457:2b43:dffc:3a2d:52b4:5333:2b46:2b8b,New York,USA
+970,Data governance,success,89328464458,1970-01-01,e9ff:9eb2:da98:d3b1:8e2f:93b7:e3d0:1dba,Ontario,Canada
+971,Transforming data into a unified format,success,89328464459,1970-01-01,af64:4fdd:2d1:e941:83ed:16d9:f10e:b0d1,Queensland,Australia
+972,Data governance,success,89328464460,1970-01-01,4e54:3cab:64a3:4c1f:9bd1:583d:9fe1:dd43,Florida,USA
+973,Data integration,success,89328464461,1970-01-01,7038:b789:6f80:2d6f:a666:3eff:4531:7019,Ontario,Canada
+974,Data integration,success,89328464462,1970-01-01,22e4:c646:ec8c:1579:6984:334c:a397:8ea1,Ontario,Canada
+975,Optimizing database performance,success,89328464463,1970-01-01,cc88:8b32:e834:7145:6b6a:c48:7011:9df1,Florida,USA
+976,Optimizing database performance,success,89328464464,1970-01-01,ef11:64df:c0f6:72a5:ed87:36c4:137a:9e47,Ontario,Canada
+977,Extracting data from various sources,success,89328464465,1970-01-01,5525:7c09:21e6:4947:a5f1:359f:cf2c:922a,Paris,France
+978,Data integration,success,89328464466,1970-01-01,859d:2664:998d:eefb:b15d:8e32:9def:35a4,California,USA
+979,Building data pipelines,-,89328464467,1970-01-01,9416:11fa:1599:e4b4:1976:dc30:c4a5:19c6,Texas,USA
+980,Data quality assurance,success,89328464468,1970-01-01,b0f9:545a:ea03:c76b:c04f:efdd:3c9c:f3c9,Queensland,Australia
+981,Loading data into a data warehouse,success,89328464469,1970-01-01,985:c5fe:9d6d:71e4:6e4:69f:261f:d0ca,New York,USA
+982,Extracting data from various sources,success,89328464470,1970-01-01,36df:ddfb:11a8:5a19:8ab0:fcf3:20b5:8bb0,Queensland,Australia
+983,Extracting data from various sources,success,89328464471,1970-01-01,1729:1b59:6156:10be:2221:7f35:9732:bc7b,Queensland,Australia
+984,Extracting data from various sources,success,89328464472,1970-01-01,c3d3:6bc4:a88d:75b9:4ff1:51ca:67cd:9b8a,Tokyo,Japan
+985,Designing and implementing data models,success,89328464473,1970-01-01,8682:424:db77:dc6e:6776:bb5e:2ee3:2a97,New York,USA
+986,Data integration,success,89328464474,1970-01-01,90e5:3799:e7b9:95d5:3d5a:fc41:5e8a:e93e,Paris,France
+987,Optimizing database performance,success,89328464475,1970-01-01,70e5:b271:1322:f36a:eaaa:6d2c:7726:238f,Paris,France
+988,Data quality assurance,-,89328464476,1970-01-01,34ff:463b:f027:af2c:3a96:14c6:faef:b94a,Florida,USA
+989,Building data pipelines,success,89328464477,1970-01-01,c11a:9696:f4cc:ec0b:2c34:db85:30d8:75d3,Tokyo,Japan
+990,Transforming data into a unified format,success,89328464478,1970-01-01,fbb0:ae83:9393:b82:8c58:c38c:a205:376e,Queensland,Australia
+991,Transforming data into a unified format,success,89328464479,1970-01-01,2453:2f56:e271:3ef0:d3b9:e0f:4d68:f2b8,California,USA
+992,Data integration,-,89328464480,1970-01-01,9881:ebd9:fcc2:75b:d26e:d0ea:dbfc:131b,Ontario,Canada
+993,Building data pipelines,success,89328464481,1970-01-01,3f3a:a7fe:409d:c8fc:f5f7:17de:7f62:a032,California,USA
+994,Data governance,success,89328464482,1970-01-01,e1b6:24be:69e6:7835:281b:d015:bc04:4150,Texas,USA
+995,Optimizing database performance,failed,89328464483,1970-01-01,18de:15cb:f964:bc62:491:9d79:da3f:a6fd,California,USA
+996,Optimizing database performance,success,89328464484,1970-01-01,cc7c:3591:1c62:280c:b259:dc89:e69d:2d75,Texas,USA
+997,Building data pipelines,success,89328464485,1970-01-01,3336:1461:f197:bad9:705f:7dd:8c59:a5e4,Texas,USA
+998,Designing and implementing data models,success,89328464486,1970-01-01,633d:e149:e22f:a277:b5f6:dae8:b32c:ea9e,New York,USA
